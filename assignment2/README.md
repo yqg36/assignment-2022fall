@@ -2,7 +2,7 @@
 
 
 
-Welcome to the assignment 2 of our RL course. This assignment consists of three parts:
+Welcome to the assignment 2 of our RL course. This assignment consists of the following parts:
 
 * Section 2: Implement Q learning in tabular setting (20 points)
 * Section 3: Implement Deep Q Network with pytorch (30 points)
