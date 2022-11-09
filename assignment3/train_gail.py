@@ -181,7 +181,6 @@ if __name__ == '__main__':
                 action_log_prob = None
                 pass
 
-                # assert values.shape == (num_envs, 1)
                 assert action_log_prob.shape == (num_envs, 1)
 
                 # `actions` is a torch tensor, so we need to turn it into numpy array.
