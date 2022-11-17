@@ -9,7 +9,7 @@
 
 (20 points are given to the code.)
 
-### TD3 in CartPole
+### TD3 in Pendulum-v0
 
 (5 points)
 
