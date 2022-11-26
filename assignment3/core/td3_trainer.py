@@ -165,20 +165,21 @@ class TD3Trainer:
             # [TODO] First, compute a tensor `noise` whose shape is as action and all values are sampled from
             # Normal distribution with STD self.policy_noise.
             noise = (
-                    None
+                torch.randn_like(action) * self.policy_noise
             ).clamp(-self.noise_clip, self.noise_clip)
 
             # [TODO] Second, compute `next_action` by calling the action_target network and apply the noise in action.
             next_action = (
-                    None
+                self.actor_target(next_state) + noise
             ).clamp(-self.max_action, self.max_action)
 
             # [TODO] Compute the target Q value.
             # First, get the Q values for next states by calling critic_target.
             # Second, find the minimum of two next Q values. (This is the key of TD3)
             # Third, use Bellman backup to compute the target Q value.
-            target_Q = None
-            pass
+            target_Q1, target_Q2 = self.critic_target(next_state, next_action)
+            target_Q = torch.min(target_Q1, target_Q2)
+            target_Q = reward + self.discount * not_done * target_Q
 
         # Get current Q estimates
         current_Q1, current_Q2 = self.critic(state, action)
