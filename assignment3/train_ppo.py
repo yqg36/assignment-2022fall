@@ -159,10 +159,8 @@ if __name__ == '__main__':
                 # Get action
                 # [TODO] Get the action, values, and action log prob. from trainer, all are tensors.
                 # Hint: Remember to disable gradient by using torch.no_grad() context when collecting data here
-                values = None
-                actions = None
-                action_log_prob = None
-                pass
+                with torch.no_grad():
+                    values, actions, action_log_prob = trainer.compute_action(trainer.rollouts.observations[index])
 
                 assert values.shape == (num_envs, 1)
                 assert action_log_prob.shape == (num_envs, 1)

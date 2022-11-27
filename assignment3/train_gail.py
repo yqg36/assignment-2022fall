@@ -177,9 +177,8 @@ if __name__ == '__main__':
                 # [TODO] Get the action and action log prob from trainer, all are tensors.
                 # Hint: Remember to disable gradient by using torch.no_grad() context when collecting data here
                 # In GAIL, the compute_action function will not return values.
-                actions = None
-                action_log_prob = None
-                pass
+                with torch.no_grad():
+                    actions, action_log_prob = trainer.compute_action(trainer.rollouts.observations[index])
 
                 assert action_log_prob.shape == (num_envs, 1)
 

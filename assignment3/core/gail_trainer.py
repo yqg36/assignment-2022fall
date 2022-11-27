@@ -228,9 +228,10 @@ class GAILTrainer(PPOTrainer):
         assert dist_entropy.requires_grad
 
         # [TODO] Implement policy loss and replace the advantages by gail_rewards.
-        policy_loss = None
-        ratio = None  # The importance sampling factor, the ratio of new policy prob over old policy prob
-        pass
+        ratio = torch.exp(action_log_probs - old_action_log_probs_batch)
+        surr1 = ratio * gail_rewards
+        surr2 = torch.clamp(ratio, 1.0 - self.clip_param, 1.0 + self.clip_param) * gail_rewards
+        policy_loss = -torch.min(surr1, surr2).mean()
 
         # This is the total loss
         loss = policy_loss - self.config.entropy_loss_weight * dist_entropy
@@ -257,15 +258,14 @@ class GAILTrainer(PPOTrainer):
 
                 # [TODO]: Call the discriminator to get the prediction of agent and expert's state-action pairs.
                 #  and flatten the tensor by calling .flatten()
-                agent_prediction = None
-                expert_prediction = None
-                pass
+                agent_prediction = self.model.compute_prediction(agent_generated_obs, agent_generated_actions).flatten()
+                expert_prediction = self.model.compute_prediction(expert_generated_obs, expert_generated_actions).flatten()
 
                 # [TODO]: Compute the discriminator loss using discriminator_loss_func.
                 # Hint: We should assume the ground-truth label for all agent_prediction to be 0 and
                 # expert_prediction to be 1. This is the essence of GAIL.
-                discriminator_loss = None
-                pass
+                discriminator_loss = discriminator_loss_func(agent_prediction, torch.zeros_like(agent_prediction)) \
+                                     + discriminator_loss_func(expert_prediction, torch.ones_like(expert_prediction))
 
                 # For stats
                 with torch.no_grad():

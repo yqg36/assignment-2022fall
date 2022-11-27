@@ -100,13 +100,12 @@ class PPORolloutStorage(BaseRolloutStorage):
                 #   `delta` then combine delta_t with advantage_{t+1} and mask_{t+1} to get the advantage of timestep t.
                 #  * The for-loop is in a reverse order, so the variable
                 #   `step` is started from `num_steps`
-
-                # self.returns[step] = None
-                pass
-
+                
+                delta = self.rewards[step] + gamma * self.value_preds[step + 1] * self.masks[step + 1] - self.value_preds[step]
+                gae = delta + gamma * self.gae_lambda * self.masks[step + 1] * gae
+                self.returns[step] = gae + self.value_preds[step]
         else:
             raise NotImplementedError()
-
 
 class ExpertDataset(BaseRolloutStorage, torch.utils.data.Dataset):
     def __len__(self):

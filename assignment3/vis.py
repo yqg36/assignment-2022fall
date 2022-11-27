@@ -134,6 +134,8 @@ def evaluate_in_batch(policy, envs, num_episodes=1):
     finally:
         envs.close()
 
+    print(len(rewards))
+    print(num_episodes)
     assert len(rewards) == num_episodes
 
     return np.mean(rewards), {
