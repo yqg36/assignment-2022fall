@@ -1,0 +1,6231 @@
+WARNING:root:BaseEngine is not launched, fail to sync seed to engine!
+:device(warning): /dev/input/event2 is not readable, some features will be unavailable.
+/home/yingqi/assignment-2022fall/assignment3/core
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 2001 =====:
+  actor_loss: .nan
+  critic_loss: .nan
+  episode_reward: 11.480666973129015
+  frame_per_second: 494
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: .nan
+  total_episodes: 2
+  total_steps: 2001
+  total_time: 4.046865940093994
+
+===== TD3 Training Step 3002 =====:
+  actor_loss: .nan
+  critic_loss: .nan
+  episode_reward: 11.42965453603066
+  frame_per_second: 497
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: .nan
+  total_episodes: 3
+  total_steps: 3002
+  total_time: 6.030324935913086
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 4003 =====:
+  actor_loss: .nan
+  critic_loss: .nan
+  episode_reward: 10.825612625582451
+  frame_per_second: 534
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: .nan
+  total_episodes: 4
+  total_steps: 4003
+  total_time: 7.4948647022247314
+
+===== TD3 Training Step 5930 =====:
+  actor_loss: .nan
+  critic_loss: .nan
+  episode_reward: 10.435412866095348
+  frame_per_second: 534
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: .nan
+  total_episodes: 6
+  total_steps: 5930
+  total_time: 11.084882974624634
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 6931 =====:
+  actor_loss: .nan
+  critic_loss: .nan
+  episode_reward: 10.823005842144322
+  frame_per_second: 549
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: .nan
+  total_episodes: 7
+  total_steps: 6931
+  total_time: 12.618998765945435
+
+===== TD3 Training Step 7932 =====:
+  actor_loss: .nan
+  critic_loss: .nan
+  episode_reward: 10.547311690476723
+  frame_per_second: 553
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: .nan
+  total_episodes: 8
+  total_steps: 7932
+  total_time: 14.320573329925537
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 8330 =====:
+  actor_loss: .nan
+  critic_loss: .nan
+  episode_reward: 9.315608625432139
+  frame_per_second: 557
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: .nan
+  total_episodes: 9
+  total_steps: 8330
+  total_time: 14.951240062713623
+
+===== TD3 Training Step 9331 =====:
+  actor_loss: .nan
+  critic_loss: .nan
+  episode_reward: 9.451100426492944
+  frame_per_second: 560
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: .nan
+  total_episodes: 10
+  total_steps: 9331
+  total_time: 16.635138273239136
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 10045 =====:
+  actor_loss: -0.015196124091744423
+  critic_loss: 0.0009532287949696183
+  episode_reward: 9.247802003972744
+  frame_per_second: 473
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: 0.013607529923319817
+  total_episodes: 11
+  total_steps: 10045
+  total_time: 21.22863459587097
+
+===== TD3 Training Step 11002 =====:
+  actor_loss: .nan
+  critic_loss: 0.20771825313568115
+  episode_reward: 1.0390554751596306
+  frame_per_second: 144
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: 0.05559226870536804
+  total_episodes: 46
+  total_steps: 11002
+  total_time: 76.19006252288818
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 12398 =====:
+  actor_loss: .nan
+  critic_loss: 0.18680164217948914
+  episode_reward: -0.48450400742287664
+  frame_per_second: 80
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: 0.03796534985303879
+  total_episodes: 73
+  total_steps: 12398
+  total_time: 154.7861545085907
+
+===== TD3 Training Step 13002 =====:
+  actor_loss: .nan
+  critic_loss: 0.527326226234436
+  episode_reward: -0.5324091869518911
+  frame_per_second: 68
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: 0.008860635571181774
+  total_episodes: 85
+  total_steps: 13002
+  total_time: 188.76681876182556
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 14021 =====:
+  actor_loss: -0.12466251850128174
+  critic_loss: 0.10152384638786316
+  episode_reward: -1.383250036008572
+  frame_per_second: 56
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: 0.09344736486673355
+  total_episodes: 114
+  total_steps: 14021
+  total_time: 246.88882446289062
+
+===== TD3 Training Step 15003 =====:
+  actor_loss: -0.11550672352313995
+  critic_loss: 0.6070873737335205
+  episode_reward: 0.2642416199051953
+  frame_per_second: 49
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: 0.11007457971572876
+  total_episodes: 138
+  total_steps: 15003
+  total_time: 303.35967087745667
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 16063 =====:
+  actor_loss: -0.2828919589519501
+  critic_loss: 0.39946186542510986
+  episode_reward: 4.100917590231206
+  frame_per_second: 44
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: 0.2313566505908966
+  total_episodes: 154
+  total_steps: 16063
+  total_time: 362.99607610702515
+
+===== TD3 Training Step 17048 =====:
+  actor_loss: .nan
+  critic_loss: 1.0756319761276245
+  episode_reward: 7.346987342029561
+  frame_per_second: 40
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: 0.34807106852531433
+  total_episodes: 168
+  total_steps: 17048
+  total_time: 418.13161611557007
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 18034 =====:
+  actor_loss: .nan
+  critic_loss: 0.45298367738723755
+  episode_reward: 10.127226062685244
+  frame_per_second: 38
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: 0.7754344344139099
+  total_episodes: 184
+  total_steps: 18034
+  total_time: 474.0849378108978
+
+===== TD3 Training Step 19004 =====:
+  actor_loss: .nan
+  critic_loss: 0.7073029279708862
+  episode_reward: 12.798035025175563
+  frame_per_second: 35
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: 1.0291976928710938
+  total_episodes: 199
+  total_steps: 19004
+  total_time: 528.7442586421967
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 20015 =====:
+  actor_loss: -1.470664381980896
+  critic_loss: 0.12594619393348694
+  episode_reward: 16.300520661945015
+  frame_per_second: 34
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: 1.4607834815979004
+  total_episodes: 210
+  total_steps: 20015
+  total_time: 585.3319947719574
+
+===== TD3 Training Step 21294 =====:
+  actor_loss: .nan
+  critic_loss: 0.6918836236000061
+  episode_reward: 22.927796839521275
+  frame_per_second: 32
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.0
+  target_q: 1.927773356437683
+  total_episodes: 217
+  total_steps: 21294
+  total_time: 656.4850697517395
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 22183 =====:
+  actor_loss: -2.5824851989746094
+  critic_loss: 0.6631832718849182
+  episode_reward: 28.750161038325018
+  frame_per_second: 31
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.01
+  target_q: 2.4240684509277344
+  total_episodes: 220
+  total_steps: 22183
+  total_time: 706.244482755661
+
+===== TD3 Training Step 23165 =====:
+  actor_loss: -3.3124752044677734
+  critic_loss: 1.0118694305419922
+  episode_reward: 35.50738823723553
+  frame_per_second: 30
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.03
+  target_q: 2.981071949005127
+  total_episodes: 224
+  total_steps: 23165
+  total_time: 760.6439189910889
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 24069 =====:
+  actor_loss: -4.049104690551758
+  critic_loss: 1.0199880599975586
+  episode_reward: 42.72057295809739
+  frame_per_second: 29
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.04
+  target_q: 3.694517135620117
+  total_episodes: 228
+  total_steps: 24069
+  total_time: 811.5209295749664
+
+===== TD3 Training Step 25114 =====:
+  actor_loss: .nan
+  critic_loss: 1.7265046834945679
+  episode_reward: 52.25861367730935
+  frame_per_second: 28
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.05
+  target_q: 4.546654224395752
+  total_episodes: 233
+  total_steps: 25114
+  total_time: 869.5810453891754
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 26365 =====:
+  actor_loss: -5.9770827293396
+  critic_loss: 1.2232255935668945
+  episode_reward: 62.008455767161024
+  frame_per_second: 28
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.07
+  target_q: 5.896488189697266
+  total_episodes: 237
+  total_steps: 26365
+  total_time: 939.4023196697235
+
+===== TD3 Training Step 27050 =====:
+  actor_loss: .nan
+  critic_loss: 1.5598974227905273
+  episode_reward: 67.55186211826882
+  frame_per_second: 27
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.08
+  target_q: 6.559638977050781
+  total_episodes: 240
+  total_steps: 27050
+  total_time: 977.7471663951874
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 28034 =====:
+  actor_loss: .nan
+  critic_loss: 1.1771314144134521
+  episode_reward: 74.78448122545484
+  frame_per_second: 27
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.08
+  target_q: 7.037410259246826
+  total_episodes: 244
+  total_steps: 28034
+  total_time: 1033.1769444942474
+
+===== TD3 Training Step 29004 =====:
+  actor_loss: .nan
+  critic_loss: 0.9870396852493286
+  episode_reward: 82.07573071470296
+  frame_per_second: 26
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.08
+  target_q: 7.798216819763184
+  total_episodes: 250
+  total_steps: 29004
+  total_time: 1087.4986317157745
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 30005 =====:
+  actor_loss: -9.139638900756836
+  critic_loss: 0.44333213567733765
+  episode_reward: 82.52762311296398
+  frame_per_second: 26
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.08
+  target_q: 8.950032234191895
+  total_episodes: 251
+  total_steps: 30005
+  total_time: 1142.635681629181
+
+===== TD3 Training Step 31711 =====:
+  actor_loss: -9.77448844909668
+  critic_loss: 3.312375783920288
+  episode_reward: 88.11291337243541
+  frame_per_second: 25
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.09
+  target_q: 9.424955368041992
+  total_episodes: 256
+  total_steps: 31711
+  total_time: 1236.7096581459045
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 32026 =====:
+  actor_loss: .nan
+  critic_loss: 0.7609006762504578
+  episode_reward: 89.80034206454215
+  frame_per_second: 25
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.09
+  target_q: 9.71027946472168
+  total_episodes: 258
+  total_steps: 32026
+  total_time: 1254.1473407745361
+
+===== TD3 Training Step 33027 =====:
+  actor_loss: -10.5239896774292
+  critic_loss: 1.0513420104980469
+  episode_reward: 92.92498382775419
+  frame_per_second: 25
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.09
+  target_q: 10.304994583129883
+  total_episodes: 259
+  total_steps: 33027
+  total_time: 1309.356989145279
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 34073 =====:
+  actor_loss: -10.893852233886719
+  critic_loss: 4.972187519073486
+  episode_reward: 102.49415616365182
+  frame_per_second: 24
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.1
+  target_q: 10.605452537536621
+  total_episodes: 264
+  total_steps: 34073
+  total_time: 1367.5726563930511
+
+===== TD3 Training Step 35051 =====:
+  actor_loss: -11.86494255065918
+  critic_loss: 2.585007905960083
+  episode_reward: 108.69647608188465
+  frame_per_second: 24
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.1
+  target_q: 11.601543426513672
+  total_episodes: 269
+  total_steps: 35051
+  total_time: 1422.9766538143158
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 36431 =====:
+  actor_loss: -14.178916931152344
+  critic_loss: 2.353734016418457
+  episode_reward: 119.26377390375687
+  frame_per_second: 24
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.12
+  target_q: 13.779630661010742
+  total_episodes: 274
+  total_steps: 36431
+  total_time: 1502.6276228427887
+
+===== TD3 Training Step 37494 =====:
+  actor_loss: .nan
+  critic_loss: 16.319488525390625
+  episode_reward: 128.23081110658686
+  frame_per_second: 23
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.13
+  target_q: 14.410493850708008
+  total_episodes: 279
+  total_steps: 37494
+  total_time: 1563.3448836803436
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 38037 =====:
+  actor_loss: -16.139812469482422
+  critic_loss: 3.2360732555389404
+  episode_reward: 133.05345167244653
+  frame_per_second: 23
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.13
+  target_q: 15.956738471984863
+  total_episodes: 284
+  total_steps: 38037
+  total_time: 1594.167840719223
+
+===== TD3 Training Step 39085 =====:
+  actor_loss: -16.96430206298828
+  critic_loss: 3.3729286193847656
+  episode_reward: 141.80270912205583
+  frame_per_second: 23
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.13
+  target_q: 17.007774353027344
+  total_episodes: 292
+  total_steps: 39085
+  total_time: 1654.1485736370087
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 40459 =====:
+  actor_loss: -16.481372833251953
+  critic_loss: 1.4437141418457031
+  episode_reward: 144.18393314174972
+  frame_per_second: 23
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.13
+  target_q: 16.673473358154297
+  total_episodes: 297
+  total_steps: 40459
+  total_time: 1730.9693627357483
+
+===== TD3 Training Step 41044 =====:
+  actor_loss: .nan
+  critic_loss: 1.9723347425460815
+  episode_reward: 148.69493782243399
+  frame_per_second: 23
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.13
+  target_q: 17.27967643737793
+  total_episodes: 302
+  total_steps: 41044
+  total_time: 1764.1751463413239
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 42023 =====:
+  actor_loss: -19.084064483642578
+  critic_loss: 2.8085503578186035
+  episode_reward: 153.7761511218423
+  frame_per_second: 23
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.13
+  target_q: 18.733726501464844
+  total_episodes: 312
+  total_steps: 42023
+  total_time: 1819.739904165268
+
+===== TD3 Training Step 43023 =====:
+  actor_loss: -21.472246170043945
+  critic_loss: 2.200471878051758
+  episode_reward: 150.83407889423134
+  frame_per_second: 22
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.12
+  target_q: 20.70555305480957
+  total_episodes: 321
+  total_steps: 43023
+  total_time: 1877.0234115123749
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 44076 =====:
+  actor_loss: .nan
+  critic_loss: 4.771299839019775
+  episode_reward: 138.99413454965753
+  frame_per_second: 22
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.08
+  target_q: 21.01886749267578
+  total_episodes: 332
+  total_steps: 44076
+  total_time: 1936.670756816864
+
+===== TD3 Training Step 45004 =====:
+  actor_loss: .nan
+  critic_loss: 9.990035057067871
+  episode_reward: 127.78740374902685
+  frame_per_second: 22
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.05
+  target_q: 22.676721572875977
+  total_episodes: 341
+  total_steps: 45004
+  total_time: 1989.8217377662659
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 46056 =====:
+  actor_loss: .nan
+  critic_loss: 3.421023368835449
+  episode_reward: 125.1984572981422
+  frame_per_second: 22
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.05
+  target_q: 23.060836791992188
+  total_episodes: 349
+  total_steps: 46056
+  total_time: 2049.5091750621796
+
+===== TD3 Training Step 47020 =====:
+  actor_loss: .nan
+  critic_loss: 13.368921279907227
+  episode_reward: 124.95353232611713
+  frame_per_second: 22
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.04
+  target_q: 23.219070434570312
+  total_episodes: 355
+  total_steps: 47020
+  total_time: 2104.1950566768646
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 48247 =====:
+  actor_loss: -26.227298736572266
+  critic_loss: 3.6584901809692383
+  episode_reward: 123.6835917830273
+  frame_per_second: 22
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.04
+  target_q: 25.931251525878906
+  total_episodes: 362
+  total_steps: 48247
+  total_time: 2173.1909959316254
+
+===== TD3 Training Step 49345 =====:
+  actor_loss: -26.23615074157715
+  critic_loss: 3.1604442596435547
+  episode_reward: 124.74572527531282
+  frame_per_second: 22
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.05
+  target_q: 25.492647171020508
+  total_episodes: 367
+  total_steps: 49345
+  total_time: 2234.826809167862
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 50402 =====:
+  actor_loss: .nan
+  critic_loss: 6.61992073059082
+  episode_reward: 128.40303968785358
+  frame_per_second: 21
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.06
+  target_q: 27.900501251220703
+  total_episodes: 370
+  total_steps: 50402
+  total_time: 2294.156950712204
+
+===== TD3 Training Step 51051 =====:
+  actor_loss: -29.157451629638672
+  critic_loss: 6.99223518371582
+  episode_reward: 130.22734467290505
+  frame_per_second: 21
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.07
+  target_q: 28.190210342407227
+  total_episodes: 373
+  total_steps: 51051
+  total_time: 2330.6156435012817
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 52020 =====:
+  actor_loss: .nan
+  critic_loss: 5.626152992248535
+  episode_reward: 133.30352809295107
+  frame_per_second: 21
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.08
+  target_q: 28.547119140625
+  total_episodes: 375
+  total_steps: 52020
+  total_time: 2385.193361520767
+
+===== TD3 Training Step 53671 =====:
+  actor_loss: -30.123382568359375
+  critic_loss: 8.862322807312012
+  episode_reward: 137.00777731990914
+  frame_per_second: 21
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.09
+  target_q: 29.638378143310547
+  total_episodes: 380
+  total_steps: 53671
+  total_time: 2478.6174778938293
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 54410 =====:
+  actor_loss: .nan
+  critic_loss: 7.083481788635254
+  episode_reward: 141.00906749566803
+  frame_per_second: 21
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.11
+  target_q: 29.709365844726562
+  total_episodes: 382
+  total_steps: 54410
+  total_time: 2519.969174146652
+
+===== TD3 Training Step 55377 =====:
+  actor_loss: -31.591018676757812
+  critic_loss: 20.989368438720703
+  episode_reward: 146.65091149704602
+  frame_per_second: 21
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.13
+  target_q: 31.157787322998047
+  total_episodes: 384
+  total_steps: 55377
+  total_time: 2574.142718076706
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 56060 =====:
+  actor_loss: .nan
+  critic_loss: 9.86306381225586
+  episode_reward: 148.3115798296891
+  frame_per_second: 21
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.14
+  target_q: 34.23042678833008
+  total_episodes: 386
+  total_steps: 56060
+  total_time: 2612.809954404831
+
+===== TD3 Training Step 57348 =====:
+  actor_loss: .nan
+  critic_loss: 4.731922626495361
+  episode_reward: 155.74675477887587
+  frame_per_second: 21
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.17
+  target_q: 32.62834930419922
+  total_episodes: 390
+  total_steps: 57348
+  total_time: 2684.812413454056
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 58288 =====:
+  actor_loss: .nan
+  critic_loss: 25.040382385253906
+  episode_reward: 161.0147973382593
+  frame_per_second: 21
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.19
+  target_q: 32.793556213378906
+  total_episodes: 392
+  total_steps: 58288
+  total_time: 2737.622367620468
+
+===== TD3 Training Step 59280 =====:
+  actor_loss: .nan
+  critic_loss: 14.116777420043945
+  episode_reward: 167.7875521599248
+  frame_per_second: 21
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.21
+  target_q: 34.54268264770508
+  total_episodes: 394
+  total_steps: 59280
+  total_time: 2793.6483640670776
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 60317 =====:
+  actor_loss: -36.92166519165039
+  critic_loss: 8.504026412963867
+  episode_reward: 174.74744526204944
+  frame_per_second: 21
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.23
+  target_q: 36.2760009765625
+  total_episodes: 396
+  total_steps: 60317
+  total_time: 2852.2572939395905
+
+===== TD3 Training Step 61223 =====:
+  actor_loss: -36.15111541748047
+  critic_loss: 10.546085357666016
+  episode_reward: 179.4058148883587
+  frame_per_second: 21
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.25
+  target_q: 35.577857971191406
+  total_episodes: 398
+  total_steps: 61223
+  total_time: 2902.444039106369
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 62173 =====:
+  actor_loss: -36.33677673339844
+  critic_loss: 13.074056625366211
+  episode_reward: 184.37523573358493
+  frame_per_second: 21
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.27
+  target_q: 35.52999496459961
+  total_episodes: 400
+  total_steps: 62173
+  total_time: 2955.7373535633087
+
+===== TD3 Training Step 63477 =====:
+  actor_loss: -38.555206298828125
+  critic_loss: 10.950470924377441
+  episode_reward: 193.3898890905939
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.3
+  target_q: 38.01480484008789
+  total_episodes: 403
+  total_steps: 63477
+  total_time: 3028.5941531658173
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 64412 =====:
+  actor_loss: .nan
+  critic_loss: 10.524566650390625
+  episode_reward: 198.5392510981301
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.32
+  target_q: 40.26200866699219
+  total_episodes: 405
+  total_steps: 64412
+  total_time: 3081.0530729293823
+
+===== TD3 Training Step 65195 =====:
+  actor_loss: -39.02521514892578
+  critic_loss: 17.216339111328125
+  episode_reward: 203.9562973840164
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.34
+  target_q: 38.08411407470703
+  total_episodes: 407
+  total_steps: 65195
+  total_time: 3124.7695314884186
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 66174 =====:
+  actor_loss: .nan
+  critic_loss: 16.473812103271484
+  episode_reward: 209.39847009872193
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.35
+  target_q: 37.95502853393555
+  total_episodes: 409
+  total_steps: 66174
+  total_time: 3180.2610342502594
+
+===== TD3 Training Step 67014 =====:
+  actor_loss: .nan
+  critic_loss: 12.320293426513672
+  episode_reward: 213.284748798961
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.37
+  target_q: 37.97315216064453
+  total_episodes: 411
+  total_steps: 67014
+  total_time: 3227.12638092041
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 68018 =====:
+  actor_loss: .nan
+  critic_loss: 11.100391387939453
+  episode_reward: 217.87467062298808
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.39
+  target_q: 38.63459777832031
+  total_episodes: 413
+  total_steps: 68018
+  total_time: 3283.5107657909393
+
+===== TD3 Training Step 69082 =====:
+  actor_loss: .nan
+  critic_loss: 14.379464149475098
+  episode_reward: 224.235227702443
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.41
+  target_q: 42.207733154296875
+  total_episodes: 415
+  total_steps: 69082
+  total_time: 3343.1673970222473
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 70024 =====:
+  actor_loss: .nan
+  critic_loss: 14.058780670166016
+  episode_reward: 229.23949658120753
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.43
+  target_q: 41.31292724609375
+  total_episodes: 417
+  total_steps: 70024
+  total_time: 3396.0878751277924
+
+===== TD3 Training Step 71035 =====:
+  actor_loss: -42.16167449951172
+  critic_loss: 8.922744750976562
+  episode_reward: 233.73851868547155
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.45
+  target_q: 40.71525573730469
+  total_episodes: 419
+  total_steps: 71035
+  total_time: 3452.102869987488
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 72024 =====:
+  actor_loss: .nan
+  critic_loss: 18.84639549255371
+  episode_reward: 238.7276557736515
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.47
+  target_q: 41.65620422363281
+  total_episodes: 422
+  total_steps: 72024
+  total_time: 3507.668848514557
+
+===== TD3 Training Step 73177 =====:
+  actor_loss: -44.151336669921875
+  critic_loss: 12.901201248168945
+  episode_reward: 245.50797811059033
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.49
+  target_q: 44.189796447753906
+  total_episodes: 424
+  total_steps: 73177
+  total_time: 3572.8730416297913
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 74091 =====:
+  actor_loss: -42.824073791503906
+  critic_loss: 6.852714538574219
+  episode_reward: 249.58291027715546
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.5
+  target_q: 42.08241653442383
+  total_episodes: 427
+  total_steps: 74091
+  total_time: 3624.736843585968
+
+===== TD3 Training Step 75474 =====:
+  actor_loss: .nan
+  critic_loss: 5.793638706207275
+  episode_reward: 256.95166623857926
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.53
+  target_q: 43.3348274230957
+  total_episodes: 430
+  total_steps: 75474
+  total_time: 3701.668363571167
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 76019 =====:
+  actor_loss: -43.758209228515625
+  critic_loss: 10.939735412597656
+  episode_reward: 259.35718264712347
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.54
+  target_q: 42.87297821044922
+  total_episodes: 432
+  total_steps: 76019
+  total_time: 3732.3041574954987
+
+===== TD3 Training Step 77276 =====:
+  actor_loss: .nan
+  critic_loss: 7.875055313110352
+  episode_reward: 264.4429026461644
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.55
+  target_q: 43.22240447998047
+  total_episodes: 436
+  total_steps: 77276
+  total_time: 3802.502406358719
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 78227 =====:
+  actor_loss: -44.263282775878906
+  critic_loss: 11.506903648376465
+  episode_reward: 270.1513065113454
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.57
+  target_q: 43.79521942138672
+  total_episodes: 438
+  total_steps: 78227
+  total_time: 3855.7019872665405
+
+===== TD3 Training Step 79104 =====:
+  actor_loss: .nan
+  critic_loss: 7.825879096984863
+  episode_reward: 273.92282910548766
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.58
+  target_q: 43.94548416137695
+  total_episodes: 441
+  total_steps: 79104
+  total_time: 3904.7551584243774
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 80217 =====:
+  actor_loss: -46.204811096191406
+  critic_loss: 24.277873992919922
+  episode_reward: 277.7259708361309
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.6
+  target_q: 45.50206756591797
+  total_episodes: 443
+  total_steps: 80217
+  total_time: 3967.1909255981445
+
+===== TD3 Training Step 81056 =====:
+  actor_loss: .nan
+  critic_loss: 8.149406433105469
+  episode_reward: 282.4586673894296
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.62
+  target_q: 45.40857696533203
+  total_episodes: 445
+  total_steps: 81056
+  total_time: 4013.8010087013245
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 82084 =====:
+  actor_loss: .nan
+  critic_loss: 21.792469024658203
+  episode_reward: 286.44846921031234
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.63
+  target_q: 44.37774658203125
+  total_episodes: 448
+  total_steps: 82084
+  total_time: 4071.12389421463
+
+===== TD3 Training Step 83253 =====:
+  actor_loss: -45.36327362060547
+  critic_loss: 8.189386367797852
+  episode_reward: 291.26792435189844
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.65
+  target_q: 44.81721496582031
+  total_episodes: 451
+  total_steps: 83253
+  total_time: 4136.791035890579
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 84030 =====:
+  actor_loss: .nan
+  critic_loss: 7.309100151062012
+  episode_reward: 296.45073055111806
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.67
+  target_q: 45.235015869140625
+  total_episodes: 453
+  total_steps: 84030
+  total_time: 4180.270552635193
+
+===== TD3 Training Step 85016 =====:
+  actor_loss: .nan
+  critic_loss: 10.683565139770508
+  episode_reward: 300.0354959911882
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.69
+  target_q: 46.184749603271484
+  total_episodes: 455
+  total_steps: 85016
+  total_time: 4235.261011838913
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 86175 =====:
+  actor_loss: -45.97044372558594
+  critic_loss: 8.762935638427734
+  episode_reward: 306.3414214899779
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.72
+  target_q: 45.063377380371094
+  total_episodes: 458
+  total_steps: 86175
+  total_time: 4299.827875137329
+
+===== TD3 Training Step 87049 =====:
+  actor_loss: -47.90071105957031
+  critic_loss: 5.8139214515686035
+  episode_reward: 309.4635229547308
+  frame_per_second: 20
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.74
+  target_q: 46.89247512817383
+  total_episodes: 460
+  total_steps: 87049
+  total_time: 4348.618706226349
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 88214 =====:
+  actor_loss: .nan
+  critic_loss: 12.192694664001465
+  episode_reward: 312.228260027548
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.76
+  target_q: 46.46466064453125
+  total_episodes: 463
+  total_steps: 88214
+  total_time: 4413.9810955524445
+
+===== TD3 Training Step 89015 =====:
+  actor_loss: -45.25969696044922
+  critic_loss: 8.592649459838867
+  episode_reward: 313.51672893453315
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.77
+  target_q: 44.576515197753906
+  total_episodes: 465
+  total_steps: 89015
+  total_time: 4458.384366750717
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 90007 =====:
+  actor_loss: -45.125762939453125
+  critic_loss: 16.139127731323242
+  episode_reward: 317.5416502606544
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.79
+  target_q: 44.99690246582031
+  total_episodes: 467
+  total_steps: 90007
+  total_time: 4514.0348246097565
+
+===== TD3 Training Step 91225 =====:
+  actor_loss: -46.51515579223633
+  critic_loss: 8.26103401184082
+  episode_reward: 317.514888799681
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.8
+  target_q: 46.18779754638672
+  total_episodes: 470
+  total_steps: 91225
+  total_time: 4582.191202402115
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 92284 =====:
+  actor_loss: .nan
+  critic_loss: 6.734549045562744
+  episode_reward: 324.7964248138631
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 45.94342803955078
+  total_episodes: 472
+  total_steps: 92284
+  total_time: 4641.871456384659
+
+===== TD3 Training Step 93411 =====:
+  actor_loss: -49.02857208251953
+  critic_loss: 15.601347923278809
+  episode_reward: 324.4829510445776
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 48.15536117553711
+  total_episodes: 474
+  total_steps: 93411
+  total_time: 4705.957437753677
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 94253 =====:
+  actor_loss: -46.26506042480469
+  critic_loss: 8.679275512695312
+  episode_reward: 322.5389657065351
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.81
+  target_q: 45.85258102416992
+  total_episodes: 477
+  total_steps: 94253
+  total_time: 4753.646386146545
+
+===== TD3 Training Step 95014 =====:
+  actor_loss: .nan
+  critic_loss: 15.268800735473633
+  episode_reward: 326.2005867786676
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 48.018890380859375
+  total_episodes: 479
+  total_steps: 95014
+  total_time: 4796.253546953201
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 96203 =====:
+  actor_loss: -46.408294677734375
+  critic_loss: 11.195161819458008
+  episode_reward: 316.27691289279454
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.79
+  target_q: 46.15811538696289
+  total_episodes: 484
+  total_steps: 96203
+  total_time: 4862.430714130402
+
+===== TD3 Training Step 97315 =====:
+  actor_loss: -48.481536865234375
+  critic_loss: 29.9454345703125
+  episode_reward: 313.23237453581885
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.78
+  target_q: 48.297035217285156
+  total_episodes: 488
+  total_steps: 97315
+  total_time: 4924.016489982605
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 98090 =====:
+  actor_loss: .nan
+  critic_loss: 30.143783569335938
+  episode_reward: 313.65434097749943
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.78
+  target_q: 45.18190002441406
+  total_episodes: 490
+  total_steps: 98090
+  total_time: 4967.338112592697
+
+===== TD3 Training Step 99091 =====:
+  actor_loss: -46.51448059082031
+  critic_loss: 23.544418334960938
+  episode_reward: 310.311801643266
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.77
+  target_q: 46.60144805908203
+  total_episodes: 491
+  total_steps: 99091
+  total_time: 5022.7103135585785
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 100625 =====:
+  actor_loss: -48.0970344543457
+  critic_loss: 35.99708557128906
+  episode_reward: 308.3226722301098
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.76
+  target_q: 47.760074615478516
+  total_episodes: 493
+  total_steps: 100625
+  total_time: 5107.3627116680145
+
+===== TD3 Training Step 101343 =====:
+  actor_loss: -46.60465621948242
+  critic_loss: 5.80271053314209
+  episode_reward: 304.8920240973106
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.75
+  target_q: 47.518165588378906
+  total_episodes: 495
+  total_steps: 101343
+  total_time: 5148.069693565369
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 102402 =====:
+  actor_loss: .nan
+  critic_loss: 17.782241821289062
+  episode_reward: 306.1540954316044
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.75
+  target_q: 45.94255065917969
+  total_episodes: 497
+  total_steps: 102402
+  total_time: 5207.66771197319
+
+===== TD3 Training Step 103279 =====:
+  actor_loss: -47.80149841308594
+  critic_loss: 12.770408630371094
+  episode_reward: 305.0128387750251
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.75
+  target_q: 47.704402923583984
+  total_episodes: 499
+  total_steps: 103279
+  total_time: 5256.715812444687
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 104330 =====:
+  actor_loss: .nan
+  critic_loss: 21.431257247924805
+  episode_reward: 307.57425933070596
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.75
+  target_q: 45.96162414550781
+  total_episodes: 501
+  total_steps: 104330
+  total_time: 5315.305532693863
+
+===== TD3 Training Step 105157 =====:
+  actor_loss: -49.24941635131836
+  critic_loss: 12.82219123840332
+  episode_reward: 306.1460833478884
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.75
+  target_q: 48.51326370239258
+  total_episodes: 503
+  total_steps: 105157
+  total_time: 5361.482853412628
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 106048 =====:
+  actor_loss: .nan
+  critic_loss: 8.912883758544922
+  episode_reward: 306.5925593450327
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.74
+  target_q: 47.4402961730957
+  total_episodes: 505
+  total_steps: 106048
+  total_time: 5412.217425107956
+
+===== TD3 Training Step 107575 =====:
+  actor_loss: -47.30237579345703
+  critic_loss: 11.604113578796387
+  episode_reward: 308.79475127887054
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.75
+  target_q: 46.47347640991211
+  total_episodes: 508
+  total_steps: 107575
+  total_time: 5497.559201955795
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 108037 =====:
+  actor_loss: -48.42662811279297
+  critic_loss: 10.112174034118652
+  episode_reward: 307.6600714520715
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.74
+  target_q: 47.85771560668945
+  total_episodes: 509
+  total_steps: 108037
+  total_time: 5523.600785970688
+
+===== TD3 Training Step 109332 =====:
+  actor_loss: .nan
+  critic_loss: 17.04755401611328
+  episode_reward: 308.96707601237625
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.74
+  target_q: 48.801055908203125
+  total_episodes: 512
+  total_steps: 109332
+  total_time: 5595.827792882919
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 110056 =====:
+  actor_loss: .nan
+  critic_loss: 7.271911144256592
+  episode_reward: 306.3616072397645
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.74
+  target_q: 47.7007942199707
+  total_episodes: 514
+  total_steps: 110056
+  total_time: 5635.557732343674
+
+===== TD3 Training Step 111371 =====:
+  actor_loss: -45.71531677246094
+  critic_loss: 8.243671417236328
+  episode_reward: 304.1011429481782
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.74
+  target_q: 45.6963996887207
+  total_episodes: 517
+  total_steps: 111371
+  total_time: 5708.645801305771
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 112046 =====:
+  actor_loss: .nan
+  critic_loss: 9.412302017211914
+  episode_reward: 301.8119137593175
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.73
+  target_q: 47.39398956298828
+  total_episodes: 519
+  total_steps: 112046
+  total_time: 5746.461667537689
+
+===== TD3 Training Step 113476 =====:
+  actor_loss: .nan
+  critic_loss: 31.92997932434082
+  episode_reward: 301.72193007309215
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.72
+  target_q: 46.54063415527344
+  total_episodes: 523
+  total_steps: 113476
+  total_time: 5826.6373970508575
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 114091 =====:
+  actor_loss: -49.13641357421875
+  critic_loss: 20.5301513671875
+  episode_reward: 301.54482625444723
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.72
+  target_q: 48.800689697265625
+  total_episodes: 524
+  total_steps: 114091
+  total_time: 5861.067328453064
+
+===== TD3 Training Step 115337 =====:
+  actor_loss: -48.17424392700195
+  critic_loss: 34.48249053955078
+  episode_reward: 303.4726549090925
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.73
+  target_q: 47.82866287231445
+  total_episodes: 527
+  total_steps: 115337
+  total_time: 5931.593079328537
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 116269 =====:
+  actor_loss: -49.86244583129883
+  critic_loss: 17.82168960571289
+  episode_reward: 304.2083207055971
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.73
+  target_q: 49.3283576965332
+  total_episodes: 529
+  total_steps: 116269
+  total_time: 5983.480666399002
+
+===== TD3 Training Step 117078 =====:
+  actor_loss: .nan
+  critic_loss: 13.099393844604492
+  episode_reward: 306.7772754778412
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.74
+  target_q: 47.915122985839844
+  total_episodes: 531
+  total_steps: 117078
+  total_time: 6028.959232330322
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 118256 =====:
+  actor_loss: .nan
+  critic_loss: 16.008922576904297
+  episode_reward: 307.94177035459853
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.76
+  target_q: 48.06789016723633
+  total_episodes: 534
+  total_steps: 118256
+  total_time: 6094.517137765884
+
+===== TD3 Training Step 119373 =====:
+  actor_loss: -49.84516143798828
+  critic_loss: 4.674617290496826
+  episode_reward: 307.13265069042075
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.76
+  target_q: 49.322975158691406
+  total_episodes: 537
+  total_steps: 119373
+  total_time: 6157.001272439957
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 120040 =====:
+  actor_loss: .nan
+  critic_loss: 12.910751342773438
+  episode_reward: 308.4287882563212
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.77
+  target_q: 47.78200912475586
+  total_episodes: 539
+  total_steps: 120040
+  total_time: 6193.73841547966
+
+===== TD3 Training Step 121075 =====:
+  actor_loss: -50.36272430419922
+  critic_loss: 35.89314270019531
+  episode_reward: 307.6549681171589
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.76
+  target_q: 48.94099807739258
+  total_episodes: 542
+  total_steps: 121075
+  total_time: 6251.9578149318695
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 122015 =====:
+  actor_loss: -48.00747299194336
+  critic_loss: 32.84380340576172
+  episode_reward: 304.86993942291826
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.74
+  target_q: 47.65987777709961
+  total_episodes: 545
+  total_steps: 122015
+  total_time: 6304.741927623749
+
+===== TD3 Training Step 123119 =====:
+  actor_loss: -47.63338851928711
+  critic_loss: 18.619686126708984
+  episode_reward: 306.41637876095103
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.75
+  target_q: 46.80750274658203
+  total_episodes: 547
+  total_steps: 123119
+  total_time: 6367.1719398498535
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 124255 =====:
+  actor_loss: -46.972633361816406
+  critic_loss: 13.622459411621094
+  episode_reward: 312.8553270292463
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.77
+  target_q: 47.18864440917969
+  total_episodes: 549
+  total_steps: 124255
+  total_time: 6430.680509805679
+
+===== TD3 Training Step 125437 =====:
+  actor_loss: -49.64136505126953
+  critic_loss: 6.997757911682129
+  episode_reward: 309.80790995007555
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.76
+  target_q: 48.80644607543945
+  total_episodes: 552
+  total_steps: 125437
+  total_time: 6496.784080028534
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 126281 =====:
+  actor_loss: -47.25531768798828
+  critic_loss: 11.182096481323242
+  episode_reward: 309.07775834837173
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.75
+  target_q: 46.886512756347656
+  total_episodes: 554
+  total_steps: 126281
+  total_time: 6544.239441156387
+
+===== TD3 Training Step 127161 =====:
+  actor_loss: -45.83889389038086
+  critic_loss: 10.68814468383789
+  episode_reward: 303.1841551538878
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.72
+  target_q: 45.13861083984375
+  total_episodes: 558
+  total_steps: 127161
+  total_time: 6593.350056409836
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 128385 =====:
+  actor_loss: -50.61482620239258
+  critic_loss: 11.261306762695312
+  episode_reward: 298.1242385571261
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.69
+  target_q: 49.54280471801758
+  total_episodes: 562
+  total_steps: 128385
+  total_time: 6662.129301071167
+
+===== TD3 Training Step 129286 =====:
+  actor_loss: .nan
+  critic_loss: 8.145584106445312
+  episode_reward: 287.48184324770403
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.65
+  target_q: 47.65098571777344
+  total_episodes: 567
+  total_steps: 129286
+  total_time: 6712.443466901779
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 130371 =====:
+  actor_loss: -50.15910720825195
+  critic_loss: 14.621435165405273
+  episode_reward: 288.06267146424295
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.65
+  target_q: 48.79789733886719
+  total_episodes: 569
+  total_steps: 130371
+  total_time: 6773.021334409714
+
+===== TD3 Training Step 131156 =====:
+  actor_loss: .nan
+  critic_loss: 11.675335884094238
+  episode_reward: 287.4852654225571
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.65
+  target_q: 48.617401123046875
+  total_episodes: 571
+  total_steps: 131156
+  total_time: 6816.54446721077
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 132124 =====:
+  actor_loss: .nan
+  critic_loss: 9.405466079711914
+  episode_reward: 281.2000345866698
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.63
+  target_q: 49.52740478515625
+  total_episodes: 574
+  total_steps: 132124
+  total_time: 6870.636687994003
+
+===== TD3 Training Step 133103 =====:
+  actor_loss: -50.50397491455078
+  critic_loss: 5.928397178649902
+  episode_reward: 286.99983189758734
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.65
+  target_q: 50.167266845703125
+  total_episodes: 576
+  total_steps: 133103
+  total_time: 6925.288940191269
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 134070 =====:
+  actor_loss: .nan
+  critic_loss: 18.012821197509766
+  episode_reward: 280.8347397236196
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.63
+  target_q: 48.536460876464844
+  total_episodes: 580
+  total_steps: 134070
+  total_time: 6979.239970445633
+
+===== TD3 Training Step 135354 =====:
+  actor_loss: .nan
+  critic_loss: 15.948968887329102
+  episode_reward: 283.75955923399255
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.65
+  target_q: 48.583221435546875
+  total_episodes: 583
+  total_steps: 135354
+  total_time: 7050.804588317871
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 136331 =====:
+  actor_loss: -49.202964782714844
+  critic_loss: 19.650053024291992
+  episode_reward: 287.5852674017462
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.66
+  target_q: 48.87443161010742
+  total_episodes: 585
+  total_steps: 136331
+  total_time: 7105.591205120087
+
+===== TD3 Training Step 137327 =====:
+  actor_loss: -49.29765319824219
+  critic_loss: 7.597408294677734
+  episode_reward: 291.34043618632734
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.67
+  target_q: 48.81614303588867
+  total_episodes: 587
+  total_steps: 137327
+  total_time: 7160.557629585266
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 138163 =====:
+  actor_loss: -49.00773620605469
+  critic_loss: 22.88141632080078
+  episode_reward: 290.523601348555
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.66
+  target_q: 48.09119415283203
+  total_episodes: 589
+  total_steps: 138163
+  total_time: 7206.583196878433
+
+===== TD3 Training Step 139090 =====:
+  actor_loss: .nan
+  critic_loss: 12.948455810546875
+  episode_reward: 294.00849359477985
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.67
+  target_q: 47.43028259277344
+  total_episodes: 591
+  total_steps: 139090
+  total_time: 7258.129054784775
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 140141 =====:
+  actor_loss: -47.887271881103516
+  critic_loss: 7.6593852043151855
+  episode_reward: 294.5905708941098
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.68
+  target_q: 47.170257568359375
+  total_episodes: 594
+  total_steps: 140141
+  total_time: 7316.975602388382
+
+===== TD3 Training Step 141078 =====:
+  actor_loss: .nan
+  critic_loss: 7.362000465393066
+  episode_reward: 292.7164840155449
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.68
+  target_q: 47.48727798461914
+  total_episodes: 596
+  total_steps: 141078
+  total_time: 7368.634830951691
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 142210 =====:
+  actor_loss: .nan
+  critic_loss: 19.15126609802246
+  episode_reward: 292.6622144329794
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.68
+  target_q: 47.895050048828125
+  total_episodes: 598
+  total_steps: 142210
+  total_time: 7431.72705078125
+
+===== TD3 Training Step 143315 =====:
+  actor_loss: -49.42436981201172
+  critic_loss: 8.510237693786621
+  episode_reward: 289.0883303924989
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.66
+  target_q: 49.05883026123047
+  total_episodes: 601
+  total_steps: 143315
+  total_time: 7493.618992328644
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 144466 =====:
+  actor_loss: .nan
+  critic_loss: 8.489079475402832
+  episode_reward: 286.97296512381286
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.65
+  target_q: 47.31813430786133
+  total_episodes: 604
+  total_steps: 144466
+  total_time: 7558.230347156525
+
+===== TD3 Training Step 145045 =====:
+  actor_loss: -48.62159729003906
+  critic_loss: 7.870641708374023
+  episode_reward: 283.9992374788882
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.64
+  target_q: 48.27845764160156
+  total_episodes: 606
+  total_steps: 145045
+  total_time: 7590.867634534836
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 146183 =====:
+  actor_loss: -48.8274040222168
+  critic_loss: 17.308273315429688
+  episode_reward: 284.2637222228408
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.64
+  target_q: 48.47173309326172
+  total_episodes: 608
+  total_steps: 146183
+  total_time: 7654.672525405884
+
+===== TD3 Training Step 147227 =====:
+  actor_loss: -49.95790100097656
+  critic_loss: 11.021421432495117
+  episode_reward: 285.63923128952473
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.65
+  target_q: 49.41273498535156
+  total_episodes: 610
+  total_steps: 147227
+  total_time: 7713.27711892128
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 148478 =====:
+  actor_loss: .nan
+  critic_loss: 13.294273376464844
+  episode_reward: 281.1454508593135
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.63
+  target_q: 48.17298126220703
+  total_episodes: 614
+  total_steps: 148478
+  total_time: 7783.396339178085
+
+===== TD3 Training Step 149377 =====:
+  actor_loss: -48.671348571777344
+  critic_loss: 8.825545310974121
+  episode_reward: 281.805303236246
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.63
+  target_q: 48.264434814453125
+  total_episodes: 616
+  total_steps: 149377
+  total_time: 7833.626131534576
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 150365 =====:
+  actor_loss: -48.427040100097656
+  critic_loss: 6.760683536529541
+  episode_reward: 283.0988056342908
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.63
+  target_q: 47.46299362182617
+  total_episodes: 618
+  total_steps: 150365
+  total_time: 7889.174116611481
+
+===== TD3 Training Step 151452 =====:
+  actor_loss: .nan
+  critic_loss: 31.405153274536133
+  episode_reward: 286.8959270693377
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.65
+  target_q: 46.95085906982422
+  total_episodes: 620
+  total_steps: 151452
+  total_time: 7950.342374563217
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 152358 =====:
+  actor_loss: .nan
+  critic_loss: 11.984617233276367
+  episode_reward: 285.9773661132439
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.64
+  target_q: 47.378177642822266
+  total_episodes: 623
+  total_steps: 152358
+  total_time: 8001.1059358119965
+
+===== TD3 Training Step 153390 =====:
+  actor_loss: .nan
+  critic_loss: 6.950432777404785
+  episode_reward: 284.3318811199109
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.63
+  target_q: 49.78023910522461
+  total_episodes: 626
+  total_steps: 153390
+  total_time: 8059.610306978226
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 154504 =====:
+  actor_loss: .nan
+  critic_loss: 12.36434555053711
+  episode_reward: 285.59409307337484
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.63
+  target_q: 46.124412536621094
+  total_episodes: 628
+  total_steps: 154504
+  total_time: 8122.710500717163
+
+===== TD3 Training Step 155222 =====:
+  actor_loss: .nan
+  critic_loss: 7.735329627990723
+  episode_reward: 282.97426067357077
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.62
+  target_q: 47.98393249511719
+  total_episodes: 630
+  total_steps: 155222
+  total_time: 8162.624926567078
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 156525 =====:
+  actor_loss: -49.0552864074707
+  critic_loss: 9.47325325012207
+  episode_reward: 283.98940463834896
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.61
+  target_q: 49.03657531738281
+  total_episodes: 633
+  total_steps: 156525
+  total_time: 8235.67420911789
+
+===== TD3 Training Step 157020 =====:
+  actor_loss: .nan
+  critic_loss: 8.663365364074707
+  episode_reward: 285.1142456856359
+  frame_per_second: 19
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.61
+  target_q: 49.40158462524414
+  total_episodes: 634
+  total_steps: 157020
+  total_time: 8263.310077905655
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 158355 =====:
+  actor_loss: -48.71759796142578
+  critic_loss: 7.759315490722656
+  episode_reward: 287.10418859159233
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.6
+  target_q: 47.69512939453125
+  total_episodes: 637
+  total_steps: 158355
+  total_time: 8339.408479690552
+
+===== TD3 Training Step 159509 =====:
+  actor_loss: -47.227333068847656
+  critic_loss: 16.362136840820312
+  episode_reward: 285.13837234911864
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.59
+  target_q: 46.625244140625
+  total_episodes: 641
+  total_steps: 159509
+  total_time: 8403.832532644272
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 160072 =====:
+  actor_loss: .nan
+  critic_loss: 10.798025131225586
+  episode_reward: 285.3141658706054
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.59
+  target_q: 50.409034729003906
+  total_episodes: 642
+  total_steps: 160072
+  total_time: 8435.65005993843
+
+===== TD3 Training Step 161068 =====:
+  actor_loss: .nan
+  critic_loss: 7.82393217086792
+  episode_reward: 285.30832982702594
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.59
+  target_q: 45.902626037597656
+  total_episodes: 645
+  total_steps: 161068
+  total_time: 8491.739636182785
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 162049 =====:
+  actor_loss: -49.589359283447266
+  critic_loss: 27.879854202270508
+  episode_reward: 285.8673101163904
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.58
+  target_q: 48.587345123291016
+  total_episodes: 647
+  total_steps: 162049
+  total_time: 8546.45119547844
+
+===== TD3 Training Step 163061 =====:
+  actor_loss: -49.737945556640625
+  critic_loss: 15.344541549682617
+  episode_reward: 283.71362719150295
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.59
+  target_q: 49.682823181152344
+  total_episodes: 650
+  total_steps: 163061
+  total_time: 8602.39446759224
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 164091 =====:
+  actor_loss: -49.85660171508789
+  critic_loss: 16.65094757080078
+  episode_reward: 282.00177940831213
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.59
+  target_q: 50.082332611083984
+  total_episodes: 653
+  total_steps: 164091
+  total_time: 8659.597415447235
+
+===== TD3 Training Step 165051 =====:
+  actor_loss: -48.91494369506836
+  critic_loss: 13.788728713989258
+  episode_reward: 283.61483518454105
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.6
+  target_q: 48.829078674316406
+  total_episodes: 655
+  total_steps: 165051
+  total_time: 8713.07610797882
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 166211 =====:
+  actor_loss: -49.297027587890625
+  critic_loss: 8.436832427978516
+  episode_reward: 287.1039160026205
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.61
+  target_q: 48.70622634887695
+  total_episodes: 658
+  total_steps: 166211
+  total_time: 8777.523875713348
+
+===== TD3 Training Step 167461 =====:
+  actor_loss: -48.10167694091797
+  critic_loss: 6.179731845855713
+  episode_reward: 287.18500595219325
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.63
+  target_q: 47.98084259033203
+  total_episodes: 662
+  total_steps: 167461
+  total_time: 8846.620381832123
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 168059 =====:
+  actor_loss: -50.35094451904297
+  critic_loss: 12.72459602355957
+  episode_reward: 290.77478625273847
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.64
+  target_q: 49.459014892578125
+  total_episodes: 664
+  total_steps: 168059
+  total_time: 8879.94666647911
+
+===== TD3 Training Step 169316 =====:
+  actor_loss: .nan
+  critic_loss: 12.242227554321289
+  episode_reward: 295.67455739524513
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.65
+  target_q: 49.48149871826172
+  total_episodes: 667
+  total_steps: 169316
+  total_time: 8950.207405090332
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 170271 =====:
+  actor_loss: -49.021087646484375
+  critic_loss: 21.189964294433594
+  episode_reward: 294.444698239168
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.64
+  target_q: 48.47906494140625
+  total_episodes: 669
+  total_steps: 170271
+  total_time: 9004.330060243607
+
+===== TD3 Training Step 171136 =====:
+  actor_loss: .nan
+  critic_loss: 9.662115097045898
+  episode_reward: 295.4244206596678
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.64
+  target_q: 49.061153411865234
+  total_episodes: 671
+  total_steps: 171136
+  total_time: 9052.00139784813
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 172329 =====:
+  actor_loss: -50.72135925292969
+  critic_loss: 20.064468383789062
+  episode_reward: 301.44122868485715
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.66
+  target_q: 50.33177947998047
+  total_episodes: 673
+  total_steps: 172329
+  total_time: 9118.743101119995
+
+===== TD3 Training Step 173383 =====:
+  actor_loss: -48.32421112060547
+  critic_loss: 10.74846076965332
+  episode_reward: 301.3055112900474
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.66
+  target_q: 48.059104919433594
+  total_episodes: 675
+  total_steps: 173383
+  total_time: 9177.682844877243
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 174060 =====:
+  actor_loss: .nan
+  critic_loss: 23.64438247680664
+  episode_reward: 302.7976790032373
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.66
+  target_q: 49.233238220214844
+  total_episodes: 677
+  total_steps: 174060
+  total_time: 9215.622149944305
+
+===== TD3 Training Step 175422 =====:
+  actor_loss: .nan
+  critic_loss: 10.5712308883667
+  episode_reward: 307.1687268402022
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.68
+  target_q: 50.21928405761719
+  total_episodes: 680
+  total_steps: 175422
+  total_time: 9291.50485253334
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 176508 =====:
+  actor_loss: .nan
+  critic_loss: 8.349611282348633
+  episode_reward: 308.9108459195938
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.68
+  target_q: 48.870948791503906
+  total_episodes: 682
+  total_steps: 176508
+  total_time: 9352.581069946289
+
+===== TD3 Training Step 177374 =====:
+  actor_loss: .nan
+  critic_loss: 10.590325355529785
+  episode_reward: 308.6072329746598
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.67
+  target_q: 49.17017364501953
+  total_episodes: 684
+  total_steps: 177374
+  total_time: 9401.18071603775
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 178048 =====:
+  actor_loss: .nan
+  critic_loss: 10.709918975830078
+  episode_reward: 302.2244231221568
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.66
+  target_q: 49.83500671386719
+  total_episodes: 687
+  total_steps: 178048
+  total_time: 9438.962859630585
+
+===== TD3 Training Step 179126 =====:
+  actor_loss: .nan
+  critic_loss: 12.806747436523438
+  episode_reward: 300.168419014396
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.66
+  target_q: 48.68286895751953
+  total_episodes: 690
+  total_steps: 179126
+  total_time: 9499.202676296234
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 180431 =====:
+  actor_loss: -48.615623474121094
+  critic_loss: 15.781726837158203
+  episode_reward: 303.6615604145634
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.67
+  target_q: 48.191932678222656
+  total_episodes: 693
+  total_steps: 180431
+  total_time: 9572.706825017929
+
+===== TD3 Training Step 181295 =====:
+  actor_loss: -48.64263916015625
+  critic_loss: 10.795280456542969
+  episode_reward: 303.96230841785535
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.66
+  target_q: 48.15668487548828
+  total_episodes: 695
+  total_steps: 181295
+  total_time: 9621.822065591812
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 182522 =====:
+  actor_loss: .nan
+  critic_loss: 18.23940086364746
+  episode_reward: 299.7225164184597
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.65
+  target_q: 50.580989837646484
+  total_episodes: 699
+  total_steps: 182522
+  total_time: 9690.732122421265
+
+===== TD3 Training Step 183505 =====:
+  actor_loss: -49.568973541259766
+  critic_loss: 27.262508392333984
+  episode_reward: 300.04852387744387
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.66
+  target_q: 48.25596618652344
+  total_episodes: 701
+  total_steps: 183505
+  total_time: 9746.219028234482
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 184043 =====:
+  actor_loss: -48.80272674560547
+  critic_loss: 6.740165710449219
+  episode_reward: 301.77696406109294
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.67
+  target_q: 49.09996032714844
+  total_episodes: 702
+  total_steps: 184043
+  total_time: 9776.435896396637
+
+===== TD3 Training Step 185168 =====:
+  actor_loss: .nan
+  critic_loss: 18.629602432250977
+  episode_reward: 303.3449022124971
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.68
+  target_q: 47.64613723754883
+  total_episodes: 705
+  total_steps: 185168
+  total_time: 9839.255555152893
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 186360 =====:
+  actor_loss: .nan
+  critic_loss: 32.75476837158203
+  episode_reward: 299.8737001956769
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.67
+  target_q: 48.248836517333984
+  total_episodes: 708
+  total_steps: 186360
+  total_time: 9906.401586771011
+
+===== TD3 Training Step 187321 =====:
+  actor_loss: -49.758270263671875
+  critic_loss: 18.309165954589844
+  episode_reward: 298.5433549853884
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.67
+  target_q: 49.37992858886719
+  total_episodes: 710
+  total_steps: 187321
+  total_time: 9960.200486183167
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 188017 =====:
+  actor_loss: -48.07628631591797
+  critic_loss: 7.295194625854492
+  episode_reward: 301.3491384965418
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.68
+  target_q: 47.85789489746094
+  total_episodes: 712
+  total_steps: 188017
+  total_time: 9999.366231918335
+
+===== TD3 Training Step 189364 =====:
+  actor_loss: .nan
+  critic_loss: 8.991462707519531
+  episode_reward: 301.22341980483907
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.68
+  target_q: 48.702491760253906
+  total_episodes: 715
+  total_steps: 189364
+  total_time: 10074.41018128395
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 190407 =====:
+  actor_loss: -47.285919189453125
+  critic_loss: 11.659585952758789
+  episode_reward: 302.4941606294598
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.68
+  target_q: 46.866676330566406
+  total_episodes: 717
+  total_steps: 190407
+  total_time: 10132.760269641876
+
+===== TD3 Training Step 191202 =====:
+  actor_loss: .nan
+  critic_loss: 34.296112060546875
+  episode_reward: 299.36859858401397
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.68
+  target_q: 49.35655975341797
+  total_episodes: 719
+  total_steps: 191202
+  total_time: 10176.922633171082
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 192460 =====:
+  actor_loss: .nan
+  critic_loss: 12.521492958068848
+  episode_reward: 303.9329861127182
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.69
+  target_q: 46.754512786865234
+  total_episodes: 721
+  total_steps: 192460
+  total_time: 10248.11867570877
+
+===== TD3 Training Step 193023 =====:
+  actor_loss: -47.18266296386719
+  critic_loss: 13.51913833618164
+  episode_reward: 307.521987553146
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.7
+  target_q: 46.8448371887207
+  total_episodes: 722
+  total_steps: 193023
+  total_time: 10279.694429159164
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 194388 =====:
+  actor_loss: .nan
+  critic_loss: 24.634687423706055
+  episode_reward: 309.4306045660393
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.71
+  target_q: 48.17755889892578
+  total_episodes: 725
+  total_steps: 194388
+  total_time: 10356.785938978195
+
+===== TD3 Training Step 195006 =====:
+  actor_loss: .nan
+  critic_loss: 9.095399856567383
+  episode_reward: 306.21432294182
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.69
+  target_q: 49.87224578857422
+  total_episodes: 727
+  total_steps: 195006
+  total_time: 10391.020299911499
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 196311 =====:
+  actor_loss: -48.311683654785156
+  critic_loss: 10.88210678100586
+  episode_reward: 305.4405496341171
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.68
+  target_q: 48.304405212402344
+  total_episodes: 730
+  total_steps: 196311
+  total_time: 10464.086388349533
+
+===== TD3 Training Step 197346 =====:
+  actor_loss: .nan
+  critic_loss: 9.617082595825195
+  episode_reward: 307.7250515958585
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.68
+  target_q: 48.59867477416992
+  total_episodes: 732
+  total_steps: 197346
+  total_time: 10522.166812419891
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 198431 =====:
+  actor_loss: -47.71244430541992
+  critic_loss: 28.578636169433594
+  episode_reward: 305.6819089036801
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.68
+  target_q: 47.494972229003906
+  total_episodes: 734
+  total_steps: 198431
+  total_time: 10583.073333024979
+
+===== TD3 Training Step 199525 =====:
+  actor_loss: -50.048316955566406
+  critic_loss: 15.450444221496582
+  episode_reward: 306.80527628598196
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.69
+  target_q: 49.383052825927734
+  total_episodes: 736
+  total_steps: 199525
+  total_time: 10644.765832901001
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 200117 =====:
+  actor_loss: -49.196712493896484
+  critic_loss: 15.79811954498291
+  episode_reward: 308.0471937088302
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.7
+  target_q: 48.357810974121094
+  total_episodes: 737
+  total_steps: 200117
+  total_time: 10677.7594165802
+
+===== TD3 Training Step 201327 =====:
+  actor_loss: -46.56244659423828
+  critic_loss: 10.623446464538574
+  episode_reward: 313.27672615259195
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.73
+  target_q: 46.88107681274414
+  total_episodes: 740
+  total_steps: 201327
+  total_time: 10744.887664794922
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 202368 =====:
+  actor_loss: .nan
+  critic_loss: 24.78485107421875
+  episode_reward: 308.10509424028754
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.72
+  target_q: 47.72550582885742
+  total_episodes: 743
+  total_steps: 202368
+  total_time: 10802.797317028046
+
+===== TD3 Training Step 203423 =====:
+  actor_loss: -50.16075134277344
+  critic_loss: 6.341137409210205
+  episode_reward: 313.50226984973045
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.74
+  target_q: 50.1490478515625
+  total_episodes: 745
+  total_steps: 203423
+  total_time: 10862.200815439224
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 204215 =====:
+  actor_loss: -50.58403778076172
+  critic_loss: 10.737449645996094
+  episode_reward: 306.17866086121774
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.71
+  target_q: 49.930938720703125
+  total_episodes: 749
+  total_steps: 204215
+  total_time: 10906.60910153389
+
+===== TD3 Training Step 205110 =====:
+  actor_loss: .nan
+  critic_loss: 12.197751998901367
+  episode_reward: 307.7118535308034
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.71
+  target_q: 48.306217193603516
+  total_episodes: 751
+  total_steps: 205110
+  total_time: 10956.511457681656
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 206425 =====:
+  actor_loss: -49.281463623046875
+  critic_loss: 6.815575122833252
+  episode_reward: 305.2044839570838
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.7
+  target_q: 48.87705612182617
+  total_episodes: 755
+  total_steps: 206425
+  total_time: 11029.726581811905
+
+===== TD3 Training Step 207493 =====:
+  actor_loss: -48.961936950683594
+  critic_loss: 13.659664154052734
+  episode_reward: 305.3261957323255
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.7
+  target_q: 48.47718811035156
+  total_episodes: 757
+  total_steps: 207493
+  total_time: 11089.34123826027
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 208055 =====:
+  actor_loss: -53.002525329589844
+  critic_loss: 9.41997241973877
+  episode_reward: 307.3339607100988
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.71
+  target_q: 52.06772994995117
+  total_episodes: 758
+  total_steps: 208055
+  total_time: 11120.704575061798
+
+===== TD3 Training Step 209130 =====:
+  actor_loss: .nan
+  critic_loss: 12.043045043945312
+  episode_reward: 311.7479282565398
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.72
+  target_q: 47.97869110107422
+  total_episodes: 760
+  total_steps: 209130
+  total_time: 11180.69491648674
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 210255 =====:
+  actor_loss: -50.02778625488281
+  critic_loss: 9.45152759552002
+  episode_reward: 314.1193496290831
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.72
+  target_q: 49.5666389465332
+  total_episodes: 762
+  total_steps: 210255
+  total_time: 11243.742349386215
+
+===== TD3 Training Step 211181 =====:
+  actor_loss: -50.81243896484375
+  critic_loss: 14.35638427734375
+  episode_reward: 316.04769032591486
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.73
+  target_q: 49.953582763671875
+  total_episodes: 764
+  total_steps: 211181
+  total_time: 11295.249088048935
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 212500 =====:
+  actor_loss: .nan
+  critic_loss: 11.775285720825195
+  episode_reward: 313.5080958824621
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.73
+  target_q: 48.55084991455078
+  total_episodes: 768
+  total_steps: 212500
+  total_time: 11368.99098277092
+
+===== TD3 Training Step 213058 =====:
+  actor_loss: .nan
+  critic_loss: 14.039695739746094
+  episode_reward: 308.8736149352185
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.72
+  target_q: 49.10498809814453
+  total_episodes: 770
+  total_steps: 213058
+  total_time: 11400.10713148117
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 214399 =====:
+  actor_loss: -47.97373962402344
+  critic_loss: 22.172269821166992
+  episode_reward: 306.2695100900178
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.71
+  target_q: 47.40031814575195
+  total_episodes: 773
+  total_steps: 214399
+  total_time: 11475.29228067398
+
+===== TD3 Training Step 215011 =====:
+  actor_loss: -47.64797592163086
+  critic_loss: 9.364299774169922
+  episode_reward: 302.8016151525725
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.7
+  target_q: 47.851409912109375
+  total_episodes: 775
+  total_steps: 215011
+  total_time: 11508.96626830101
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 216046 =====:
+  actor_loss: .nan
+  critic_loss: 6.912856101989746
+  episode_reward: 304.31225689201364
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.71
+  target_q: 48.631500244140625
+  total_episodes: 777
+  total_steps: 216046
+  total_time: 11567.106079339981
+
+===== TD3 Training Step 217042 =====:
+  actor_loss: .nan
+  critic_loss: 7.308958053588867
+  episode_reward: 305.15777607196117
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.71
+  target_q: 47.72058868408203
+  total_episodes: 779
+  total_steps: 217042
+  total_time: 11622.860184907913
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 218098 =====:
+  actor_loss: .nan
+  critic_loss: 7.972241401672363
+  episode_reward: 300.30459441656893
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.69
+  target_q: 48.41692352294922
+  total_episodes: 782
+  total_steps: 218098
+  total_time: 11682.313074588776
+
+===== TD3 Training Step 219171 =====:
+  actor_loss: -48.717552185058594
+  critic_loss: 8.232819557189941
+  episode_reward: 301.21952500021376
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.7
+  target_q: 48.485313415527344
+  total_episodes: 784
+  total_steps: 219171
+  total_time: 11743.017365217209
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 220234 =====:
+  actor_loss: .nan
+  critic_loss: 8.673023223876953
+  episode_reward: 307.42594879309644
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.72
+  target_q: 48.578575134277344
+  total_episodes: 786
+  total_steps: 220234
+  total_time: 11802.61004447937
+
+===== TD3 Training Step 221029 =====:
+  actor_loss: -47.415122985839844
+  critic_loss: 9.506331443786621
+  episode_reward: 307.68428772869237
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.72
+  target_q: 46.88884735107422
+  total_episodes: 788
+  total_steps: 221029
+  total_time: 11847.409397125244
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 222558 =====:
+  actor_loss: .nan
+  critic_loss: 9.967467308044434
+  episode_reward: 311.5912407781379
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.73
+  target_q: 49.864173889160156
+  total_episodes: 791
+  total_steps: 222558
+  total_time: 11932.702292919159
+
+===== TD3 Training Step 223291 =====:
+  actor_loss: -48.17462921142578
+  critic_loss: 7.780016899108887
+  episode_reward: 308.7977272120645
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.73
+  target_q: 47.07636260986328
+  total_episodes: 793
+  total_steps: 223291
+  total_time: 11973.473286151886
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 224190 =====:
+  actor_loss: .nan
+  critic_loss: 4.723476409912109
+  episode_reward: 307.84420446586904
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.73
+  target_q: 48.991554260253906
+  total_episodes: 795
+  total_steps: 224190
+  total_time: 12023.606224060059
+
+===== TD3 Training Step 225199 =====:
+  actor_loss: -47.961700439453125
+  critic_loss: 15.011892318725586
+  episode_reward: 313.3329970704376
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.75
+  target_q: 48.5029182434082
+  total_episodes: 797
+  total_steps: 225199
+  total_time: 12079.999730110168
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 226505 =====:
+  actor_loss: -47.03562545776367
+  critic_loss: 11.219976425170898
+  episode_reward: 314.4541378435469
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.75
+  target_q: 46.20722579956055
+  total_episodes: 799
+  total_steps: 226505
+  total_time: 12154.13670539856
+
+===== TD3 Training Step 227064 =====:
+  actor_loss: .nan
+  critic_loss: 9.70633316040039
+  episode_reward: 315.78965582496147
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.75
+  target_q: 50.06058883666992
+  total_episodes: 800
+  total_steps: 227064
+  total_time: 12185.350265026093
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 228130 =====:
+  actor_loss: .nan
+  critic_loss: 9.358779907226562
+  episode_reward: 314.5216396430936
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.75
+  target_q: 49.493988037109375
+  total_episodes: 802
+  total_steps: 228130
+  total_time: 12244.460537672043
+
+===== TD3 Training Step 229484 =====:
+  actor_loss: .nan
+  critic_loss: 9.828034400939941
+  episode_reward: 318.808348454888
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.76
+  target_q: 47.95212936401367
+  total_episodes: 804
+  total_steps: 229484
+  total_time: 12321.2017993927
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 230051 =====:
+  actor_loss: -47.534873962402344
+  critic_loss: 16.86206817626953
+  episode_reward: 319.8347303428134
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.76
+  target_q: 47.30740737915039
+  total_episodes: 805
+  total_steps: 230051
+  total_time: 12352.837702512741
+
+===== TD3 Training Step 231306 =====:
+  actor_loss: .nan
+  critic_loss: 7.4894795417785645
+  episode_reward: 324.16339540414583
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.77
+  target_q: 47.73352813720703
+  total_episodes: 807
+  total_steps: 231306
+  total_time: 12422.905118227005
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 232560 =====:
+  actor_loss: .nan
+  critic_loss: 13.312511444091797
+  episode_reward: 322.1619308589086
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.76
+  target_q: 44.53558349609375
+  total_episodes: 811
+  total_steps: 232560
+  total_time: 12493.084774255753
+
+===== TD3 Training Step 233075 =====:
+  actor_loss: -49.74174118041992
+  critic_loss: 9.046858787536621
+  episode_reward: 321.55599362118176
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.76
+  target_q: 48.9874267578125
+  total_episodes: 812
+  total_steps: 233075
+  total_time: 12521.965115785599
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 234165 =====:
+  actor_loss: -47.761802673339844
+  critic_loss: 7.274710178375244
+  episode_reward: 323.0255461516021
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.76
+  target_q: 47.38224411010742
+  total_episodes: 814
+  total_steps: 234165
+  total_time: 12583.041862010956
+
+===== TD3 Training Step 235276 =====:
+  actor_loss: .nan
+  critic_loss: 6.8607048988342285
+  episode_reward: 324.00955944884356
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.76
+  target_q: 46.51813507080078
+  total_episodes: 816
+  total_steps: 235276
+  total_time: 12645.54339504242
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 236317 =====:
+  actor_loss: -46.09146499633789
+  critic_loss: 12.362387657165527
+  episode_reward: 323.53435432039214
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.76
+  target_q: 46.20610046386719
+  total_episodes: 818
+  total_steps: 236317
+  total_time: 12704.122822523117
+
+===== TD3 Training Step 237258 =====:
+  actor_loss: .nan
+  critic_loss: 9.689687728881836
+  episode_reward: 322.46718622289535
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.76
+  target_q: 46.59307861328125
+  total_episodes: 820
+  total_steps: 237258
+  total_time: 12756.713351249695
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 238372 =====:
+  actor_loss: .nan
+  critic_loss: 8.402727127075195
+  episode_reward: 316.449434708651
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.75
+  target_q: 48.78252029418945
+  total_episodes: 823
+  total_steps: 238372
+  total_time: 12818.941951990128
+
+===== TD3 Training Step 239575 =====:
+  actor_loss: -46.365562438964844
+  critic_loss: 13.14979362487793
+  episode_reward: 319.27281740926827
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.76
+  target_q: 45.471221923828125
+  total_episodes: 825
+  total_steps: 239575
+  total_time: 12885.737102746964
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 240070 =====:
+  actor_loss: .nan
+  critic_loss: 6.883207321166992
+  episode_reward: 320.4334200267309
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.77
+  target_q: 46.46998596191406
+  total_episodes: 826
+  total_steps: 240070
+  total_time: 12913.418506383896
+
+===== TD3 Training Step 241293 =====:
+  actor_loss: -47.257049560546875
+  critic_loss: 10.821298599243164
+  episode_reward: 319.5829297483704
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.78
+  target_q: 47.357765197753906
+  total_episodes: 829
+  total_steps: 241293
+  total_time: 12981.814304113388
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 242203 =====:
+  actor_loss: -45.95819091796875
+  critic_loss: 9.204504013061523
+  episode_reward: 318.49896783786875
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.78
+  target_q: 46.07109069824219
+  total_episodes: 831
+  total_steps: 242203
+  total_time: 13032.679155826569
+
+===== TD3 Training Step 243404 =====:
+  actor_loss: .nan
+  critic_loss: 6.103697776794434
+  episode_reward: 321.5126775553647
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.79
+  target_q: 47.014583587646484
+  total_episodes: 833
+  total_steps: 243404
+  total_time: 13100.357019662857
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 244022 =====:
+  actor_loss: .nan
+  critic_loss: 18.191726684570312
+  episode_reward: 322.31541089401793
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.79
+  target_q: 44.01721954345703
+  total_episodes: 834
+  total_steps: 244022
+  total_time: 13134.888181209564
+
+===== TD3 Training Step 245187 =====:
+  actor_loss: -46.76902389526367
+  critic_loss: 8.277188301086426
+  episode_reward: 317.27280939359525
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.78
+  target_q: 46.93635559082031
+  total_episodes: 837
+  total_steps: 245187
+  total_time: 13199.54170012474
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 246300 =====:
+  actor_loss: .nan
+  critic_loss: 7.550253868103027
+  episode_reward: 319.050677605908
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.78
+  target_q: 44.117374420166016
+  total_episodes: 839
+  total_steps: 246300
+  total_time: 13262.313695907593
+
+===== TD3 Training Step 247201 =====:
+  actor_loss: -50.49467849731445
+  critic_loss: 9.888439178466797
+  episode_reward: 320.30563242438507
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.78
+  target_q: 49.45295715332031
+  total_episodes: 841
+  total_steps: 247201
+  total_time: 13312.703144311905
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 248173 =====:
+  actor_loss: -45.371299743652344
+  critic_loss: 11.943997383117676
+  episode_reward: 322.1339135734881
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.79
+  target_q: 45.24590301513672
+  total_episodes: 843
+  total_steps: 248173
+  total_time: 13367.040787935257
+
+===== TD3 Training Step 249178 =====:
+  actor_loss: .nan
+  critic_loss: 23.54204559326172
+  episode_reward: 320.18123654375546
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.79
+  target_q: 46.40650939941406
+  total_episodes: 846
+  total_steps: 249178
+  total_time: 13423.085650205612
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 250306 =====:
+  actor_loss: .nan
+  critic_loss: 11.602097511291504
+  episode_reward: 323.9002586115093
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.81
+  target_q: 45.554359436035156
+  total_episodes: 848
+  total_steps: 250306
+  total_time: 13485.653002500534
+
+===== TD3 Training Step 251330 =====:
+  actor_loss: .nan
+  critic_loss: 14.737955093383789
+  episode_reward: 325.4593305997007
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 45.677772521972656
+  total_episodes: 850
+  total_steps: 251330
+  total_time: 13542.912095785141
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 252215 =====:
+  actor_loss: -46.02061462402344
+  critic_loss: 15.344091415405273
+  episode_reward: 326.78194040363127
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 45.52537155151367
+  total_episodes: 852
+  total_steps: 252215
+  total_time: 13592.911838769913
+
+===== TD3 Training Step 253288 =====:
+  actor_loss: .nan
+  critic_loss: 17.21824073791504
+  episode_reward: 332.4793342846274
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 45.61171340942383
+  total_episodes: 854
+  total_steps: 253288
+  total_time: 13653.317320346832
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 254412 =====:
+  actor_loss: .nan
+  critic_loss: 50.143333435058594
+  episode_reward: 334.46805432370195
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 45.24132537841797
+  total_episodes: 856
+  total_steps: 254412
+  total_time: 13716.570642232895
+
+===== TD3 Training Step 255107 =====:
+  actor_loss: -45.10283660888672
+  critic_loss: 23.923965454101562
+  episode_reward: 331.0554776746995
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 44.113983154296875
+  total_episodes: 858
+  total_steps: 255107
+  total_time: 13755.236555099487
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 256298 =====:
+  actor_loss: .nan
+  critic_loss: 7.660326957702637
+  episode_reward: 327.70685466999026
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 46.871620178222656
+  total_episodes: 861
+  total_steps: 256298
+  total_time: 13821.434957027435
+
+===== TD3 Training Step 257284 =====:
+  actor_loss: .nan
+  critic_loss: 5.544690132141113
+  episode_reward: 326.8583464856514
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 43.74909210205078
+  total_episodes: 863
+  total_steps: 257284
+  total_time: 13876.392010211945
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 258051 =====:
+  actor_loss: -45.052345275878906
+  critic_loss: 6.554971694946289
+  episode_reward: 327.59122544133527
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 44.42820739746094
+  total_episodes: 865
+  total_steps: 258051
+  total_time: 13918.538861513138
+
+===== TD3 Training Step 259507 =====:
+  actor_loss: -44.73014450073242
+  critic_loss: 13.113473892211914
+  episode_reward: 331.23315004914633
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 44.90947723388672
+  total_episodes: 868
+  total_steps: 259507
+  total_time: 14000.14010310173
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 260507 =====:
+  actor_loss: -47.73379135131836
+  critic_loss: 16.580379486083984
+  episode_reward: 335.4552806125084
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 46.628501892089844
+  total_episodes: 870
+  total_steps: 260507
+  total_time: 14056.342342376709
+
+===== TD3 Training Step 261303 =====:
+  actor_loss: -43.89689636230469
+  critic_loss: 8.085040092468262
+  episode_reward: 336.11596351774773
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 44.03069305419922
+  total_episodes: 872
+  total_steps: 261303
+  total_time: 14101.146674871445
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 262267 =====:
+  actor_loss: -42.551666259765625
+  critic_loss: 8.067092895507812
+  episode_reward: 337.62079138158947
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 42.827388763427734
+  total_episodes: 874
+  total_steps: 262267
+  total_time: 14155.413113355637
+
+===== TD3 Training Step 263591 =====:
+  actor_loss: -45.64856719970703
+  critic_loss: 9.028982162475586
+  episode_reward: 341.02416724263765
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 45.9289436340332
+  total_episodes: 876
+  total_steps: 263591
+  total_time: 14230.130135297775
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 264104 =====:
+  actor_loss: .nan
+  critic_loss: 7.660235404968262
+  episode_reward: 340.4987630437902
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 44.372222900390625
+  total_episodes: 877
+  total_steps: 264104
+  total_time: 14259.091368675232
+
+===== TD3 Training Step 265175 =====:
+  actor_loss: -47.35523223876953
+  critic_loss: 7.278095245361328
+  episode_reward: 339.3154260909076
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 47.44956970214844
+  total_episodes: 880
+  total_steps: 265175
+  total_time: 14318.45763039589
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 266564 =====:
+  actor_loss: .nan
+  critic_loss: 4.7659454345703125
+  episode_reward: 343.3201783878096
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 44.93682861328125
+  total_episodes: 882
+  total_steps: 266564
+  total_time: 14396.943833351135
+
+===== TD3 Training Step 267314 =====:
+  actor_loss: .nan
+  critic_loss: 8.064428329467773
+  episode_reward: 340.64474713815287
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 43.882965087890625
+  total_episodes: 884
+  total_steps: 267314
+  total_time: 14439.057119369507
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 268441 =====:
+  actor_loss: -46.10066223144531
+  critic_loss: 8.692778587341309
+  episode_reward: 340.1070994941729
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 45.98176193237305
+  total_episodes: 886
+  total_steps: 268441
+  total_time: 14501.999517917633
+
+===== TD3 Training Step 269002 =====:
+  actor_loss: .nan
+  critic_loss: 13.059831619262695
+  episode_reward: 338.9620243655125
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 44.98058319091797
+  total_episodes: 888
+  total_steps: 269002
+  total_time: 14532.990885257721
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 270345 =====:
+  actor_loss: -45.56661605834961
+  critic_loss: 8.466858863830566
+  episode_reward: 336.40723468443224
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 45.328041076660156
+  total_episodes: 891
+  total_steps: 270345
+  total_time: 14607.876747846603
+
+===== TD3 Training Step 271080 =====:
+  actor_loss: .nan
+  critic_loss: 14.8927640914917
+  episode_reward: 336.57805850936114
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 43.218414306640625
+  total_episodes: 893
+  total_steps: 271080
+  total_time: 14648.939846277237
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 272236 =====:
+  actor_loss: .nan
+  critic_loss: 16.428462982177734
+  episode_reward: 337.5799660559088
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 45.458885192871094
+  total_episodes: 895
+  total_steps: 272236
+  total_time: 14712.53988790512
+
+===== TD3 Training Step 273364 =====:
+  actor_loss: .nan
+  critic_loss: 16.861616134643555
+  episode_reward: 334.45299418415266
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 43.25048828125
+  total_episodes: 898
+  total_steps: 273364
+  total_time: 14775.528728485107
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 274595 =====:
+  actor_loss: -44.81941223144531
+  critic_loss: 7.3680806159973145
+  episode_reward: 329.6918677435626
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 45.21649169921875
+  total_episodes: 901
+  total_steps: 274595
+  total_time: 14844.03530907631
+
+===== TD3 Training Step 275502 =====:
+  actor_loss: .nan
+  critic_loss: 10.467294692993164
+  episode_reward: 326.25852113397826
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 44.17439270019531
+  total_episodes: 903
+  total_steps: 275502
+  total_time: 14894.128814220428
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 276043 =====:
+  actor_loss: -40.57459259033203
+  critic_loss: 9.969733238220215
+  episode_reward: 326.2342083525974
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 40.793731689453125
+  total_episodes: 904
+  total_steps: 276043
+  total_time: 14924.53442621231
+
+===== TD3 Training Step 277087 =====:
+  actor_loss: -46.4561882019043
+  critic_loss: 6.360906600952148
+  episode_reward: 324.5389950156186
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 45.3006591796875
+  total_episodes: 906
+  total_steps: 277087
+  total_time: 14983.174080133438
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 278153 =====:
+  actor_loss: -43.38823699951172
+  critic_loss: 12.911774635314941
+  episode_reward: 324.86805022694784
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 43.38987731933594
+  total_episodes: 908
+  total_steps: 278153
+  total_time: 15043.021471261978
+
+===== TD3 Training Step 279253 =====:
+  actor_loss: -41.26617431640625
+  critic_loss: 7.523414134979248
+  episode_reward: 331.1464998056802
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 41.56707763671875
+  total_episodes: 910
+  total_steps: 279253
+  total_time: 15104.31128001213
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 280153 =====:
+  actor_loss: -43.16965103149414
+  critic_loss: 8.151493072509766
+  episode_reward: 328.9426064230099
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 42.98948287963867
+  total_episodes: 912
+  total_steps: 280153
+  total_time: 15154.748042821884
+
+===== TD3 Training Step 281121 =====:
+  actor_loss: -43.897003173828125
+  critic_loss: 14.890680313110352
+  episode_reward: 324.3890788580221
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 43.407833099365234
+  total_episodes: 915
+  total_steps: 281121
+  total_time: 15209.273991823196
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 282149 =====:
+  actor_loss: -42.76183319091797
+  critic_loss: 10.347515106201172
+  episode_reward: 325.1395201599862
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 43.047767639160156
+  total_episodes: 917
+  total_steps: 282149
+  total_time: 15266.78375196457
+
+===== TD3 Training Step 283102 =====:
+  actor_loss: .nan
+  critic_loss: 5.0152387619018555
+  episode_reward: 323.0856214818966
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 42.55588150024414
+  total_episodes: 919
+  total_steps: 283102
+  total_time: 15320.074660539627
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 284212 =====:
+  actor_loss: .nan
+  critic_loss: 4.594627380371094
+  episode_reward: 328.1123733017815
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 42.65473175048828
+  total_episodes: 921
+  total_steps: 284212
+  total_time: 15382.532993555069
+
+===== TD3 Training Step 285444 =====:
+  actor_loss: .nan
+  critic_loss: 6.3702168464660645
+  episode_reward: 325.778726586736
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 44.13606643676758
+  total_episodes: 924
+  total_steps: 285444
+  total_time: 15451.2806930542
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 286040 =====:
+  actor_loss: .nan
+  critic_loss: 21.371288299560547
+  episode_reward: 322.0729306441544
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 44.10939407348633
+  total_episodes: 926
+  total_steps: 286040
+  total_time: 15484.45796918869
+
+===== TD3 Training Step 287219 =====:
+  actor_loss: -42.35057830810547
+  critic_loss: 10.28646183013916
+  episode_reward: 323.48306262638056
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 42.29508972167969
+  total_episodes: 929
+  total_steps: 287219
+  total_time: 15549.595639705658
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 288317 =====:
+  actor_loss: -41.71617889404297
+  critic_loss: 7.695679664611816
+  episode_reward: 321.5640225419786
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 40.89537811279297
+  total_episodes: 932
+  total_steps: 288317
+  total_time: 15611.57581782341
+
+===== TD3 Training Step 289222 =====:
+  actor_loss: .nan
+  critic_loss: 8.835081100463867
+  episode_reward: 319.8935779774732
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 42.49501037597656
+  total_episodes: 934
+  total_steps: 289222
+  total_time: 15662.032715797424
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 290270 =====:
+  actor_loss: .nan
+  critic_loss: 6.721980094909668
+  episode_reward: 322.0052189789814
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 42.410240173339844
+  total_episodes: 936
+  total_steps: 290270
+  total_time: 15720.729420900345
+
+===== TD3 Training Step 291291 =====:
+  actor_loss: -44.17443084716797
+  critic_loss: 5.2195587158203125
+  episode_reward: 325.1010601254906
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 43.568511962890625
+  total_episodes: 938
+  total_steps: 291291
+  total_time: 15778.091457605362
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 292340 =====:
+  actor_loss: .nan
+  critic_loss: 10.168943405151367
+  episode_reward: 322.6767876852271
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 41.72197341918945
+  total_episodes: 940
+  total_steps: 292340
+  total_time: 15837.615200519562
+
+===== TD3 Training Step 293470 =====:
+  actor_loss: .nan
+  critic_loss: 13.437329292297363
+  episode_reward: 323.7693363760059
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 41.378814697265625
+  total_episodes: 942
+  total_steps: 293470
+  total_time: 15901.190918922424
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 294282 =====:
+  actor_loss: .nan
+  critic_loss: 5.8384904861450195
+  episode_reward: 326.4522338604313
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 43.87519836425781
+  total_episodes: 944
+  total_steps: 294282
+  total_time: 15946.54935503006
+
+===== TD3 Training Step 295064 =====:
+  actor_loss: .nan
+  critic_loss: 12.378560066223145
+  episode_reward: 325.8216749840101
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 44.138427734375
+  total_episodes: 946
+  total_steps: 295064
+  total_time: 15990.399198532104
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 296420 =====:
+  actor_loss: .nan
+  critic_loss: 7.547663688659668
+  episode_reward: 320.71502017330164
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 45.39371871948242
+  total_episodes: 950
+  total_steps: 296420
+  total_time: 16066.116690635681
+
+===== TD3 Training Step 297317 =====:
+  actor_loss: -42.33675003051758
+  critic_loss: 6.298254013061523
+  episode_reward: 319.7288257331665
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 42.48310470581055
+  total_episodes: 952
+  total_steps: 297317
+  total_time: 16116.171713113785
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 298088 =====:
+  actor_loss: .nan
+  critic_loss: 13.49980354309082
+  episode_reward: 317.37520308932204
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 38.95048141479492
+  total_episodes: 954
+  total_steps: 298088
+  total_time: 16159.926297903061
+
+===== TD3 Training Step 299099 =====:
+  actor_loss: -44.12457275390625
+  critic_loss: 5.017007827758789
+  episode_reward: 316.1585256728204
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 43.68267059326172
+  total_episodes: 956
+  total_steps: 299099
+  total_time: 16216.740131378174
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 300078 =====:
+  actor_loss: .nan
+  critic_loss: 11.535713195800781
+  episode_reward: 319.3546230997497
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 43.46116638183594
+  total_episodes: 958
+  total_steps: 300078
+  total_time: 16272.204753875732
+
+===== TD3 Training Step 301292 =====:
+  actor_loss: .nan
+  critic_loss: 8.204102516174316
+  episode_reward: 318.88608156005
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 42.04889678955078
+  total_episodes: 961
+  total_steps: 301292
+  total_time: 16340.021766662598
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 302269 =====:
+  actor_loss: -43.13077163696289
+  critic_loss: 9.269694328308105
+  episode_reward: 319.0811828398875
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 43.243133544921875
+  total_episodes: 963
+  total_steps: 302269
+  total_time: 16394.629051208496
+
+===== TD3 Training Step 303365 =====:
+  actor_loss: -43.79600524902344
+  critic_loss: 5.994345664978027
+  episode_reward: 321.70818472077826
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 43.81926727294922
+  total_episodes: 965
+  total_steps: 303365
+  total_time: 16456.56511235237
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 304412 =====:
+  actor_loss: .nan
+  critic_loss: 6.976767539978027
+  episode_reward: 321.5572540525016
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 40.69072723388672
+  total_episodes: 967
+  total_steps: 304412
+  total_time: 16514.22764968872
+
+===== TD3 Training Step 305105 =====:
+  actor_loss: -43.607582092285156
+  critic_loss: 10.024767875671387
+  episode_reward: 321.44278008326006
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 43.79034423828125
+  total_episodes: 968
+  total_steps: 305105
+  total_time: 16552.991191148758
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 306401 =====:
+  actor_loss: -42.060951232910156
+  critic_loss: 11.491832733154297
+  episode_reward: 321.50052244843573
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 41.468894958496094
+  total_episodes: 970
+  total_steps: 306401
+  total_time: 16625.73970913887
+
+===== TD3 Training Step 307125 =====:
+  actor_loss: -42.10616683959961
+  critic_loss: 6.641551494598389
+  episode_reward: 323.64671813456835
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 41.75260925292969
+  total_episodes: 971
+  total_steps: 307125
+  total_time: 16665.620750904083
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 308210 =====:
+  actor_loss: .nan
+  critic_loss: 5.46370792388916
+  episode_reward: 321.47652083835624
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 42.29448699951172
+  total_episodes: 973
+  total_steps: 308210
+  total_time: 16726.215113162994
+
+===== TD3 Training Step 309465 =====:
+  actor_loss: -43.63872528076172
+  critic_loss: 13.824142456054688
+  episode_reward: 318.4567640290637
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 43.34027862548828
+  total_episodes: 976
+  total_steps: 309465
+  total_time: 16796.304204702377
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 310484 =====:
+  actor_loss: .nan
+  critic_loss: 5.471546649932861
+  episode_reward: 319.8309108238512
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 41.61468505859375
+  total_episodes: 978
+  total_steps: 310484
+  total_time: 16853.240014076233
+
+===== TD3 Training Step 311167 =====:
+  actor_loss: -41.66257858276367
+  critic_loss: 16.198944091796875
+  episode_reward: 312.96061689653214
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.81
+  target_q: 40.79750061035156
+  total_episodes: 981
+  total_steps: 311167
+  total_time: 16891.57857108116
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 312308 =====:
+  actor_loss: .nan
+  critic_loss: 36.53791046142578
+  episode_reward: 314.73495321426805
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 42.037437438964844
+  total_episodes: 983
+  total_steps: 312308
+  total_time: 16955.284323215485
+
+===== TD3 Training Step 313047 =====:
+  actor_loss: -41.04006576538086
+  critic_loss: 13.509177207946777
+  episode_reward: 312.11239118985
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 41.081722259521484
+  total_episodes: 985
+  total_steps: 313047
+  total_time: 16996.315726041794
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 314008 =====:
+  actor_loss: .nan
+  critic_loss: 6.015752792358398
+  episode_reward: 312.0630763437963
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 41.5531120300293
+  total_episodes: 988
+  total_steps: 314008
+  total_time: 17049.54483437538
+
+===== TD3 Training Step 315173 =====:
+  actor_loss: -42.535362243652344
+  critic_loss: 12.879369735717773
+  episode_reward: 314.5120358293474
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 42.13340759277344
+  total_episodes: 990
+  total_steps: 315173
+  total_time: 17115.1147005558
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 316208 =====:
+  actor_loss: .nan
+  critic_loss: 6.672789096832275
+  episode_reward: 315.1706194585958
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 40.6789665222168
+  total_episodes: 992
+  total_steps: 316208
+  total_time: 17173.15221953392
+
+===== TD3 Training Step 317362 =====:
+  actor_loss: .nan
+  critic_loss: 14.33558464050293
+  episode_reward: 315.987730717171
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 44.32721710205078
+  total_episodes: 994
+  total_steps: 317362
+  total_time: 17238.047903060913
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 318513 =====:
+  actor_loss: -43.7426872253418
+  critic_loss: 14.073324203491211
+  episode_reward: 317.8304883660014
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 42.63410568237305
+  total_episodes: 996
+  total_steps: 318513
+  total_time: 17303.577977657318
+
+===== TD3 Training Step 319413 =====:
+  actor_loss: -44.281005859375
+  critic_loss: 9.647123336791992
+  episode_reward: 321.15385637849624
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 43.377281188964844
+  total_episodes: 998
+  total_steps: 319413
+  total_time: 17354.37461590767
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 320038 =====:
+  actor_loss: .nan
+  critic_loss: 8.78542709350586
+  episode_reward: 324.7532495418378
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 42.26959991455078
+  total_episodes: 999
+  total_steps: 320038
+  total_time: 17389.37267971039
+
+===== TD3 Training Step 321075 =====:
+  actor_loss: -41.63103485107422
+  critic_loss: 9.24791145324707
+  episode_reward: 325.31348929551154
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 40.61198806762695
+  total_episodes: 1001
+  total_steps: 321075
+  total_time: 17447.690974712372
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 322217 =====:
+  actor_loss: -42.11207580566406
+  critic_loss: 16.660863876342773
+  episode_reward: 328.0697361398584
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 42.51240921020508
+  total_episodes: 1003
+  total_steps: 322217
+  total_time: 17511.892199754715
+
+===== TD3 Training Step 323286 =====:
+  actor_loss: .nan
+  critic_loss: 5.902707099914551
+  episode_reward: 324.2780766648133
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 44.63976287841797
+  total_episodes: 1006
+  total_steps: 323286
+  total_time: 17571.575560331345
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 324349 =====:
+  actor_loss: -42.8019905090332
+  critic_loss: 9.225379943847656
+  episode_reward: 323.63903517246484
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 42.98389434814453
+  total_episodes: 1008
+  total_steps: 324349
+  total_time: 17631.266750335693
+
+===== TD3 Training Step 325302 =====:
+  actor_loss: .nan
+  critic_loss: 8.25571060180664
+  episode_reward: 323.0919751367263
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 39.671844482421875
+  total_episodes: 1010
+  total_steps: 325302
+  total_time: 17685.13353919983
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 326259 =====:
+  actor_loss: -43.38674545288086
+  critic_loss: 5.009662628173828
+  episode_reward: 324.20622642664944
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 42.70970916748047
+  total_episodes: 1012
+  total_steps: 326259
+  total_time: 17738.993929862976
+
+===== TD3 Training Step 327337 =====:
+  actor_loss: -42.610660552978516
+  critic_loss: 11.255455017089844
+  episode_reward: 326.20490568198085
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 42.34941101074219
+  total_episodes: 1014
+  total_steps: 327337
+  total_time: 17800.357270479202
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 328437 =====:
+  actor_loss: -42.032981872558594
+  critic_loss: 12.571520805358887
+  episode_reward: 328.22090791357004
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 40.94403076171875
+  total_episodes: 1016
+  total_steps: 328437
+  total_time: 17861.991885900497
+
+===== TD3 Training Step 329081 =====:
+  actor_loss: -40.34307861328125
+  critic_loss: 8.09548568725586
+  episode_reward: 321.9616828084306
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 39.968467712402344
+  total_episodes: 1019
+  total_steps: 329081
+  total_time: 17897.82306432724
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 330052 =====:
+  actor_loss: .nan
+  critic_loss: 5.231356620788574
+  episode_reward: 316.97736669616205
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.81
+  target_q: 42.71051788330078
+  total_episodes: 1022
+  total_steps: 330052
+  total_time: 17952.76888179779
+
+===== TD3 Training Step 331072 =====:
+  actor_loss: .nan
+  critic_loss: 6.1435546875
+  episode_reward: 318.4049401055638
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 41.59883117675781
+  total_episodes: 1024
+  total_steps: 331072
+  total_time: 18010.25733757019
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 332051 =====:
+  actor_loss: -41.19462585449219
+  critic_loss: 7.197524070739746
+  episode_reward: 322.3756716692766
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 40.70183181762695
+  total_episodes: 1026
+  total_steps: 332051
+  total_time: 18065.26363635063
+
+===== TD3 Training Step 333332 =====:
+  actor_loss: .nan
+  critic_loss: 5.750584125518799
+  episode_reward: 321.9491318366518
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 42.06001663208008
+  total_episodes: 1029
+  total_steps: 333332
+  total_time: 18137.300275087357
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 334110 =====:
+  actor_loss: .nan
+  critic_loss: 8.205078125
+  episode_reward: 322.0104181676849
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 42.345298767089844
+  total_episodes: 1031
+  total_steps: 334110
+  total_time: 18180.729045152664
+
+===== TD3 Training Step 335354 =====:
+  actor_loss: .nan
+  critic_loss: 4.619176864624023
+  episode_reward: 325.9880347867546
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 42.4197883605957
+  total_episodes: 1033
+  total_steps: 335354
+  total_time: 18251.170432329178
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 336130 =====:
+  actor_loss: .nan
+  critic_loss: 5.741828918457031
+  episode_reward: 324.700451875709
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.81
+  target_q: 41.84551239013672
+  total_episodes: 1035
+  total_steps: 336130
+  total_time: 18294.4840798378
+
+===== TD3 Training Step 337209 =====:
+  actor_loss: -43.14628601074219
+  critic_loss: 7.278687000274658
+  episode_reward: 323.3998210532284
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.81
+  target_q: 43.11444854736328
+  total_episodes: 1037
+  total_steps: 337209
+  total_time: 18355.08843398094
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 338350 =====:
+  actor_loss: .nan
+  critic_loss: 9.606306076049805
+  episode_reward: 324.4502449188799
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 42.06471633911133
+  total_episodes: 1039
+  total_steps: 338350
+  total_time: 18418.598266601562
+
+===== TD3 Training Step 339139 =====:
+  actor_loss: -42.98414993286133
+  critic_loss: 6.046481132507324
+  episode_reward: 321.3384368689125
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.81
+  target_q: 42.82890701293945
+  total_episodes: 1041
+  total_steps: 339139
+  total_time: 18463.39342236519
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 340285 =====:
+  actor_loss: -40.88637924194336
+  critic_loss: 8.544889450073242
+  episode_reward: 323.110674625598
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 40.88345718383789
+  total_episodes: 1043
+  total_steps: 340285
+  total_time: 18528.579159736633
+
+===== TD3 Training Step 341282 =====:
+  actor_loss: .nan
+  critic_loss: 36.88401794433594
+  episode_reward: 324.44807071715985
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 40.84978485107422
+  total_episodes: 1045
+  total_steps: 341282
+  total_time: 18583.898243665695
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 342052 =====:
+  actor_loss: .nan
+  critic_loss: 11.003158569335938
+  episode_reward: 325.38126104442057
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 40.15983581542969
+  total_episodes: 1047
+  total_steps: 342052
+  total_time: 18626.812403917313
+
+===== TD3 Training Step 343159 =====:
+  actor_loss: -42.12831115722656
+  critic_loss: 9.565313339233398
+  episode_reward: 327.4237936945249
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 41.87433624267578
+  total_episodes: 1049
+  total_steps: 343159
+  total_time: 18688.708538770676
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 344080 =====:
+  actor_loss: .nan
+  critic_loss: 6.428262710571289
+  episode_reward: 327.49402002758035
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 42.601165771484375
+  total_episodes: 1051
+  total_steps: 344080
+  total_time: 18740.017553567886
+
+===== TD3 Training Step 345142 =====:
+  actor_loss: .nan
+  critic_loss: 6.281381607055664
+  episode_reward: 328.1827217042838
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 41.272029876708984
+  total_episodes: 1053
+  total_steps: 345142
+  total_time: 18799.768794059753
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 346245 =====:
+  actor_loss: -44.2862434387207
+  critic_loss: 5.304759979248047
+  episode_reward: 330.3575753422312
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 43.387203216552734
+  total_episodes: 1055
+  total_steps: 346245
+  total_time: 18861.775131464005
+
+===== TD3 Training Step 347255 =====:
+  actor_loss: -40.83641052246094
+  critic_loss: 5.633671283721924
+  episode_reward: 329.71724927011746
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 40.12757110595703
+  total_episodes: 1057
+  total_steps: 347255
+  total_time: 18917.8371591568
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 348326 =====:
+  actor_loss: .nan
+  critic_loss: 5.794511318206787
+  episode_reward: 328.82538344248974
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 39.77642059326172
+  total_episodes: 1059
+  total_steps: 348326
+  total_time: 18978.200489282608
+
+===== TD3 Training Step 349364 =====:
+  actor_loss: .nan
+  critic_loss: 10.20389175415039
+  episode_reward: 328.0475230841859
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 42.510498046875
+  total_episodes: 1062
+  total_steps: 349364
+  total_time: 19036.44207572937
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 350534 =====:
+  actor_loss: .nan
+  critic_loss: 5.189181327819824
+  episode_reward: 324.49453360661795
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 41.612998962402344
+  total_episodes: 1065
+  total_steps: 350534
+  total_time: 19102.136633872986
+
+===== TD3 Training Step 351520 =====:
+  actor_loss: .nan
+  critic_loss: 9.332802772521973
+  episode_reward: 326.04694690794895
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 41.580482482910156
+  total_episodes: 1067
+  total_steps: 351520
+  total_time: 19158.042014598846
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 352557 =====:
+  actor_loss: -41.36526107788086
+  critic_loss: 4.712183952331543
+  episode_reward: 326.2297954875444
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 42.0195198059082
+  total_episodes: 1069
+  total_steps: 352557
+  total_time: 19216.122425556183
+
+===== TD3 Training Step 353139 =====:
+  actor_loss: -42.21882247924805
+  critic_loss: 6.297650337219238
+  episode_reward: 325.694700802544
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 41.33806228637695
+  total_episodes: 1070
+  total_steps: 353139
+  total_time: 19248.520916461945
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 354274 =====:
+  actor_loss: .nan
+  critic_loss: 19.48046112060547
+  episode_reward: 323.9936127073638
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 40.688743591308594
+  total_episodes: 1073
+  total_steps: 354274
+  total_time: 19312.040481090546
+
+===== TD3 Training Step 355326 =====:
+  actor_loss: .nan
+  critic_loss: 10.699175834655762
+  episode_reward: 321.56342907753003
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 42.82074737548828
+  total_episodes: 1076
+  total_steps: 355326
+  total_time: 19370.87938094139
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 356164 =====:
+  actor_loss: .nan
+  critic_loss: 9.77276611328125
+  episode_reward: 321.744459872283
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.81
+  target_q: 39.650917053222656
+  total_episodes: 1078
+  total_steps: 356164
+  total_time: 19417.857380390167
+
+===== TD3 Training Step 357185 =====:
+  actor_loss: -40.18330001831055
+  critic_loss: 17.037893295288086
+  episode_reward: 327.4628827532515
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 40.247650146484375
+  total_episodes: 1080
+  total_steps: 357185
+  total_time: 19474.96595597267
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 358396 =====:
+  actor_loss: .nan
+  critic_loss: 11.06698226928711
+  episode_reward: 330.44788802788054
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 43.15357971191406
+  total_episodes: 1082
+  total_steps: 358396
+  total_time: 19543.585795879364
+
+===== TD3 Training Step 359471 =====:
+  actor_loss: -41.577980041503906
+  critic_loss: 8.524062156677246
+  episode_reward: 331.1536966930312
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 42.04895782470703
+  total_episodes: 1084
+  total_steps: 359471
+  total_time: 19603.864772081375
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 360087 =====:
+  actor_loss: -42.61151885986328
+  critic_loss: 7.35917854309082
+  episode_reward: 332.86159982088566
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 42.4385986328125
+  total_episodes: 1085
+  total_steps: 360087
+  total_time: 19638.290494918823
+
+===== TD3 Training Step 361128 =====:
+  actor_loss: .nan
+  critic_loss: 8.581724166870117
+  episode_reward: 333.9287466088531
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 41.74026107788086
+  total_episodes: 1087
+  total_steps: 361128
+  total_time: 19696.69385433197
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 362073 =====:
+  actor_loss: -42.586265563964844
+  critic_loss: 8.114405632019043
+  episode_reward: 332.38051597854917
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 43.054481506347656
+  total_episodes: 1090
+  total_steps: 362073
+  total_time: 19749.270649433136
+
+===== TD3 Training Step 363145 =====:
+  actor_loss: -42.264442443847656
+  critic_loss: 4.506905555725098
+  episode_reward: 327.6553080365765
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 41.58146286010742
+  total_episodes: 1093
+  total_steps: 363145
+  total_time: 19809.28370809555
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 364010 =====:
+  actor_loss: .nan
+  critic_loss: 9.274725914001465
+  episode_reward: 327.96569636409333
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 42.65020751953125
+  total_episodes: 1095
+  total_steps: 364010
+  total_time: 19857.537748098373
+
+===== TD3 Training Step 365224 =====:
+  actor_loss: .nan
+  critic_loss: 4.985025882720947
+  episode_reward: 323.9494246207876
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 42.16569519042969
+  total_episodes: 1098
+  total_steps: 365224
+  total_time: 19925.513918876648
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 366103 =====:
+  actor_loss: -41.770103454589844
+  critic_loss: 5.185480117797852
+  episode_reward: 323.6511614759674
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 41.67194366455078
+  total_episodes: 1100
+  total_steps: 366103
+  total_time: 19974.80917620659
+
+===== TD3 Training Step 367198 =====:
+  actor_loss: .nan
+  critic_loss: 18.236291885375977
+  episode_reward: 323.946983094552
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 42.66381072998047
+  total_episodes: 1102
+  total_steps: 367198
+  total_time: 20036.375013828278
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 368232 =====:
+  actor_loss: .nan
+  critic_loss: 12.374184608459473
+  episode_reward: 324.3098513246774
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 41.487274169921875
+  total_episodes: 1104
+  total_steps: 368232
+  total_time: 20094.268975496292
+
+===== TD3 Training Step 369465 =====:
+  actor_loss: -43.005943298339844
+  critic_loss: 12.147485733032227
+  episode_reward: 328.48468506134566
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 42.73017120361328
+  total_episodes: 1106
+  total_steps: 369465
+  total_time: 20163.970111131668
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 370414 =====:
+  actor_loss: .nan
+  critic_loss: 7.978395462036133
+  episode_reward: 327.8165758618615
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 40.669044494628906
+  total_episodes: 1108
+  total_steps: 370414
+  total_time: 20216.96398282051
+
+===== TD3 Training Step 371368 =====:
+  actor_loss: .nan
+  critic_loss: 5.74127721786499
+  episode_reward: 327.54268626738053
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 42.59006881713867
+  total_episodes: 1110
+  total_steps: 371368
+  total_time: 20270.31128168106
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 372429 =====:
+  actor_loss: -42.580223083496094
+  critic_loss: 5.425515174865723
+  episode_reward: 327.5205942645922
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 42.01725769042969
+  total_episodes: 1112
+  total_steps: 372429
+  total_time: 20329.904767990112
+
+===== TD3 Training Step 373031 =====:
+  actor_loss: -42.06647872924805
+  critic_loss: 5.107772350311279
+  episode_reward: 324.7217111497479
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 42.147972106933594
+  total_episodes: 1114
+  total_steps: 373031
+  total_time: 20363.531796693802
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 374311 =====:
+  actor_loss: -41.84711837768555
+  critic_loss: 10.130520820617676
+  episode_reward: 323.40638689958075
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 42.19638442993164
+  total_episodes: 1118
+  total_steps: 374311
+  total_time: 20434.93592119217
+
+===== TD3 Training Step 375279 =====:
+  actor_loss: -42.439918518066406
+  critic_loss: 4.072693824768066
+  episode_reward: 326.35188849430546
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 42.84480285644531
+  total_episodes: 1120
+  total_steps: 375279
+  total_time: 20489.45910167694
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 376287 =====:
+  actor_loss: -41.45203399658203
+  critic_loss: 5.660386562347412
+  episode_reward: 327.3815110057982
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 41.281776428222656
+  total_episodes: 1123
+  total_steps: 376287
+  total_time: 20546.556470394135
+
+===== TD3 Training Step 377247 =====:
+  actor_loss: -42.459800720214844
+  critic_loss: 6.754580497741699
+  episode_reward: 327.2351588945418
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 42.56043243408203
+  total_episodes: 1125
+  total_steps: 377247
+  total_time: 20600.148469924927
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 378289 =====:
+  actor_loss: -40.572628021240234
+  critic_loss: 11.053844451904297
+  episode_reward: 326.5991481389928
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 40.93352508544922
+  total_episodes: 1127
+  total_steps: 378289
+  total_time: 20658.641542434692
+
+===== TD3 Training Step 379163 =====:
+  actor_loss: -42.15165710449219
+  critic_loss: 24.04346466064453
+  episode_reward: 328.8042436808163
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 41.71542739868164
+  total_episodes: 1129
+  total_steps: 379163
+  total_time: 20707.69697213173
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 380116 =====:
+  actor_loss: .nan
+  critic_loss: 14.718833923339844
+  episode_reward: 329.6436201269176
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 41.22618103027344
+  total_episodes: 1131
+  total_steps: 380116
+  total_time: 20760.66269803047
+
+===== TD3 Training Step 381103 =====:
+  actor_loss: -42.32213592529297
+  critic_loss: 5.458052635192871
+  episode_reward: 327.02451025450665
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 42.20618438720703
+  total_episodes: 1133
+  total_steps: 381103
+  total_time: 20816.009976387024
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 382382 =====:
+  actor_loss: .nan
+  critic_loss: 8.765803337097168
+  episode_reward: 326.999099711939
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 42.10553741455078
+  total_episodes: 1136
+  total_steps: 382382
+  total_time: 20887.505334854126
+
+===== TD3 Training Step 383008 =====:
+  actor_loss: .nan
+  critic_loss: 11.711278915405273
+  episode_reward: 324.26017493522176
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 42.101600646972656
+  total_episodes: 1138
+  total_steps: 383008
+  total_time: 20922.1108045578
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 384158 =====:
+  actor_loss: .nan
+  critic_loss: 7.962793350219727
+  episode_reward: 324.55202544706617
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 41.91481399536133
+  total_episodes: 1141
+  total_steps: 384158
+  total_time: 20986.620230913162
+
+===== TD3 Training Step 385458 =====:
+  actor_loss: .nan
+  critic_loss: 8.97584342956543
+  episode_reward: 324.36382505443254
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 43.65223693847656
+  total_episodes: 1144
+  total_steps: 385458
+  total_time: 21059.56875181198
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 386006 =====:
+  actor_loss: .nan
+  critic_loss: 5.240983009338379
+  episode_reward: 324.7707285922526
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 43.45133590698242
+  total_episodes: 1145
+  total_steps: 386006
+  total_time: 21090.837195158005
+
+===== TD3 Training Step 387104 =====:
+  actor_loss: .nan
+  critic_loss: 4.134355545043945
+  episode_reward: 328.4155349574347
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 40.09270095825195
+  total_episodes: 1147
+  total_steps: 387104
+  total_time: 21152.665025949478
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 388071 =====:
+  actor_loss: -41.32573699951172
+  critic_loss: 7.147010803222656
+  episode_reward: 323.71660353278844
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 41.16580581665039
+  total_episodes: 1150
+  total_steps: 388071
+  total_time: 21206.684493541718
+
+===== TD3 Training Step 389244 =====:
+  actor_loss: .nan
+  critic_loss: 5.032163143157959
+  episode_reward: 322.75715650775567
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 44.144588470458984
+  total_episodes: 1153
+  total_steps: 389244
+  total_time: 21272.228267669678
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 390353 =====:
+  actor_loss: -43.362239837646484
+  critic_loss: 8.944605827331543
+  episode_reward: 322.60751187488415
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 42.922325134277344
+  total_episodes: 1155
+  total_steps: 390353
+  total_time: 21334.92310976982
+
+===== TD3 Training Step 391311 =====:
+  actor_loss: -41.06626892089844
+  critic_loss: 5.2251386642456055
+  episode_reward: 322.36720958250544
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 40.87158966064453
+  total_episodes: 1157
+  total_steps: 391311
+  total_time: 21388.763817071915
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 392383 =====:
+  actor_loss: -40.04423141479492
+  critic_loss: 5.684226036071777
+  episode_reward: 322.55301137317076
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.85
+  target_q: 40.01660919189453
+  total_episodes: 1159
+  total_steps: 392383
+  total_time: 21449.58748149872
+
+===== TD3 Training Step 393338 =====:
+  actor_loss: .nan
+  critic_loss: 10.499223709106445
+  episode_reward: 325.73840822586675
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 42.031585693359375
+  total_episodes: 1161
+  total_steps: 393338
+  total_time: 21503.348480701447
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 394361 =====:
+  actor_loss: -41.72834014892578
+  critic_loss: 10.082874298095703
+  episode_reward: 327.2693564518007
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 41.12782287597656
+  total_episodes: 1164
+  total_steps: 394361
+  total_time: 21560.933567285538
+
+===== TD3 Training Step 395167 =====:
+  actor_loss: -42.59260559082031
+  critic_loss: 20.05554962158203
+  episode_reward: 324.9947233523683
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 42.205955505371094
+  total_episodes: 1166
+  total_steps: 395167
+  total_time: 21605.610598564148
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 396094 =====:
+  actor_loss: .nan
+  critic_loss: 5.824313163757324
+  episode_reward: 324.5238641332339
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 40.51198959350586
+  total_episodes: 1168
+  total_steps: 396094
+  total_time: 21657.535900354385
+
+===== TD3 Training Step 397190 =====:
+  actor_loss: .nan
+  critic_loss: 6.9546637535095215
+  episode_reward: 323.73137394333
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 41.856815338134766
+  total_episodes: 1170
+  total_steps: 397190
+  total_time: 21719.067368984222
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 398165 =====:
+  actor_loss: -41.908992767333984
+  critic_loss: 6.161561012268066
+  episode_reward: 327.3282427664377
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 41.621360778808594
+  total_episodes: 1172
+  total_steps: 398165
+  total_time: 21773.716200351715
+
+===== TD3 Training Step 399244 =====:
+  actor_loss: .nan
+  critic_loss: 16.70254898071289
+  episode_reward: 326.9688230714679
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 41.064735412597656
+  total_episodes: 1175
+  total_steps: 399244
+  total_time: 21834.153516292572
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 400107 =====:
+  actor_loss: -41.07495880126953
+  critic_loss: 5.9486589431762695
+  episode_reward: 325.69916401136044
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 40.80715560913086
+  total_episodes: 1177
+  total_steps: 400107
+  total_time: 21882.031671524048
+
+===== TD3 Training Step 401245 =====:
+  actor_loss: -41.77548599243164
+  critic_loss: 5.033173084259033
+  episode_reward: 328.32438369833164
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 42.1691780090332
+  total_episodes: 1179
+  total_steps: 401245
+  total_time: 21946.43982553482
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 402017 =====:
+  actor_loss: -43.03003692626953
+  critic_loss: 7.735655307769775
+  episode_reward: 325.5262895004977
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 42.371360778808594
+  total_episodes: 1181
+  total_steps: 402017
+  total_time: 21989.619242191315
+
+===== TD3 Training Step 403088 =====:
+  actor_loss: .nan
+  critic_loss: 5.856623649597168
+  episode_reward: 326.6771594791161
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 41.7755241394043
+  total_episodes: 1183
+  total_steps: 403088
+  total_time: 22050.35356783867
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 404273 =====:
+  actor_loss: -42.40542984008789
+  critic_loss: 5.078947067260742
+  episode_reward: 323.79862686696265
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 42.29697036743164
+  total_episodes: 1186
+  total_steps: 404273
+  total_time: 22116.35872030258
+
+===== TD3 Training Step 405306 =====:
+  actor_loss: .nan
+  critic_loss: 6.417966842651367
+  episode_reward: 323.85811123606516
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 42.23043441772461
+  total_episodes: 1188
+  total_steps: 405306
+  total_time: 22174.7021420002
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 406017 =====:
+  actor_loss: -41.72388458251953
+  critic_loss: 14.810226440429688
+  episode_reward: 326.60601349435075
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 41.55430603027344
+  total_episodes: 1190
+  total_steps: 406017
+  total_time: 22214.40486073494
+
+===== TD3 Training Step 407333 =====:
+  actor_loss: -43.00858688354492
+  critic_loss: 8.442727088928223
+  episode_reward: 328.31718398146893
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 42.311805725097656
+  total_episodes: 1193
+  total_steps: 407333
+  total_time: 22287.487729549408
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 408308 =====:
+  actor_loss: .nan
+  critic_loss: 10.522153854370117
+  episode_reward: 328.2953679757186
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 43.10169219970703
+  total_episodes: 1195
+  total_steps: 408308
+  total_time: 22341.933319568634
+
+===== TD3 Training Step 409413 =====:
+  actor_loss: -41.673118591308594
+  critic_loss: 5.399985313415527
+  episode_reward: 329.4488313256059
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 41.049434661865234
+  total_episodes: 1198
+  total_steps: 409413
+  total_time: 22403.686827898026
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 410449 =====:
+  actor_loss: -41.485450744628906
+  critic_loss: 12.382841110229492
+  episode_reward: 330.55902473415745
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 41.121185302734375
+  total_episodes: 1200
+  total_steps: 410449
+  total_time: 22462.217076539993
+
+===== TD3 Training Step 411147 =====:
+  actor_loss: -43.74373245239258
+  critic_loss: 7.217508316040039
+  episode_reward: 331.2943257166217
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 43.62995529174805
+  total_episodes: 1201
+  total_steps: 411147
+  total_time: 22502.43563747406
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 412142 =====:
+  actor_loss: .nan
+  critic_loss: 15.719217300415039
+  episode_reward: 329.5833531994948
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 41.35198974609375
+  total_episodes: 1203
+  total_steps: 412142
+  total_time: 22558.57010936737
+
+===== TD3 Training Step 413338 =====:
+  actor_loss: .nan
+  critic_loss: 6.816452980041504
+  episode_reward: 326.71454182066884
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 40.40703582763672
+  total_episodes: 1206
+  total_steps: 413338
+  total_time: 22625.875091314316
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 414447 =====:
+  actor_loss: -42.20735549926758
+  critic_loss: 13.227149963378906
+  episode_reward: 327.9160970722207
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 41.8702278137207
+  total_episodes: 1208
+  total_steps: 414447
+  total_time: 22688.219782590866
+
+===== TD3 Training Step 415292 =====:
+  actor_loss: .nan
+  critic_loss: 12.290262222290039
+  episode_reward: 327.12410181306825
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 42.54658126831055
+  total_episodes: 1210
+  total_steps: 415292
+  total_time: 22735.37614965439
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 416324 =====:
+  actor_loss: .nan
+  critic_loss: 4.736055374145508
+  episode_reward: 327.2848340797941
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 42.81748962402344
+  total_episodes: 1212
+  total_steps: 416324
+  total_time: 22794.00642800331
+
+===== TD3 Training Step 417427 =====:
+  actor_loss: -40.41387939453125
+  critic_loss: 6.376707077026367
+  episode_reward: 330.73593004420263
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 40.0786018371582
+  total_episodes: 1214
+  total_steps: 417427
+  total_time: 22855.91481614113
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 418291 =====:
+  actor_loss: -43.748191833496094
+  critic_loss: 12.104581832885742
+  episode_reward: 333.63210988747045
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 43.335609436035156
+  total_episodes: 1216
+  total_steps: 418291
+  total_time: 22904.19647026062
+
+===== TD3 Training Step 419411 =====:
+  actor_loss: -41.49644088745117
+  critic_loss: 8.869855880737305
+  episode_reward: 335.7123532327148
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 40.800254821777344
+  total_episodes: 1218
+  total_steps: 419411
+  total_time: 22968.02033829689
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 420407 =====:
+  actor_loss: -43.01615905761719
+  critic_loss: 11.132620811462402
+  episode_reward: 336.84950216303207
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 42.9205322265625
+  total_episodes: 1220
+  total_steps: 420407
+  total_time: 23024.19731283188
+
+===== TD3 Training Step 421479 =====:
+  actor_loss: -39.47793960571289
+  critic_loss: 8.184106826782227
+  episode_reward: 337.4973095359394
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 39.88934326171875
+  total_episodes: 1223
+  total_steps: 421479
+  total_time: 23084.360781908035
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 422307 =====:
+  actor_loss: -41.572059631347656
+  critic_loss: 11.553237915039062
+  episode_reward: 332.7340745280245
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 41.76346969604492
+  total_episodes: 1226
+  total_steps: 422307
+  total_time: 23130.438619852066
+
+===== TD3 Training Step 423183 =====:
+  actor_loss: -42.53314208984375
+  critic_loss: 5.209056854248047
+  episode_reward: 331.33085185207506
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 42.34673309326172
+  total_episodes: 1228
+  total_steps: 423183
+  total_time: 23179.394394874573
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 424572 =====:
+  actor_loss: .nan
+  critic_loss: 8.798931121826172
+  episode_reward: 330.7744822752001
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 43.47291564941406
+  total_episodes: 1231
+  total_steps: 424572
+  total_time: 23257.118167877197
+
+===== TD3 Training Step 425087 =====:
+  actor_loss: -46.234886169433594
+  critic_loss: 8.676220893859863
+  episode_reward: 331.92549226744575
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 45.7626838684082
+  total_episodes: 1232
+  total_steps: 425087
+  total_time: 23285.890674114227
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 426199 =====:
+  actor_loss: -42.80356979370117
+  critic_loss: 7.941184997558594
+  episode_reward: 330.6762616732318
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 42.291053771972656
+  total_episodes: 1235
+  total_steps: 426199
+  total_time: 23347.45919561386
+
+===== TD3 Training Step 427595 =====:
+  actor_loss: -40.59953689575195
+  critic_loss: 5.874228000640869
+  episode_reward: 332.56578746266445
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 40.55954360961914
+  total_episodes: 1238
+  total_steps: 427595
+  total_time: 23425.633672475815
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 428173 =====:
+  actor_loss: -44.58354949951172
+  critic_loss: 3.9821207523345947
+  episode_reward: 336.10072381446344
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 44.13147735595703
+  total_episodes: 1239
+  total_steps: 428173
+  total_time: 23458.40651845932
+
+===== TD3 Training Step 429259 =====:
+  actor_loss: -43.13373565673828
+  critic_loss: 8.555828094482422
+  episode_reward: 331.92599970960146
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 42.94792175292969
+  total_episodes: 1242
+  total_steps: 429259
+  total_time: 23519.099262475967
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 430492 =====:
+  actor_loss: .nan
+  critic_loss: 4.493424892425537
+  episode_reward: 329.6984584507876
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 41.99198913574219
+  total_episodes: 1245
+  total_steps: 430492
+  total_time: 23588.33245253563
+
+===== TD3 Training Step 431223 =====:
+  actor_loss: -43.40980529785156
+  critic_loss: 4.5312581062316895
+  episode_reward: 325.8205889962128
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 43.65575408935547
+  total_episodes: 1247
+  total_steps: 431223
+  total_time: 23629.063077926636
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 432337 =====:
+  actor_loss: -40.58766174316406
+  critic_loss: 7.529790878295898
+  episode_reward: 327.6160654070558
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 40.345699310302734
+  total_episodes: 1249
+  total_steps: 432337
+  total_time: 23691.618485450745
+
+===== TD3 Training Step 433022 =====:
+  actor_loss: .nan
+  critic_loss: 7.8821563720703125
+  episode_reward: 329.94189614698655
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 42.12920379638672
+  total_episodes: 1251
+  total_steps: 433022
+  total_time: 23729.895375728607
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 434529 =====:
+  actor_loss: -42.531654357910156
+  critic_loss: 8.824970245361328
+  episode_reward: 329.35925112035324
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 42.236534118652344
+  total_episodes: 1254
+  total_steps: 434529
+  total_time: 23814.0577981472
+
+===== TD3 Training Step 435500 =====:
+  actor_loss: .nan
+  critic_loss: 9.45149040222168
+  episode_reward: 330.5698301678899
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 42.54174041748047
+  total_episodes: 1256
+  total_steps: 435500
+  total_time: 23868.529621124268
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 436478 =====:
+  actor_loss: .nan
+  critic_loss: 19.072315216064453
+  episode_reward: 329.973696304218
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 42.88662338256836
+  total_episodes: 1258
+  total_steps: 436478
+  total_time: 23923.20096373558
+
+===== TD3 Training Step 437355 =====:
+  actor_loss: -41.810035705566406
+  critic_loss: 7.71699333190918
+  episode_reward: 328.52372237934077
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 41.297943115234375
+  total_episodes: 1260
+  total_steps: 437355
+  total_time: 23971.630440950394
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 438310 =====:
+  actor_loss: .nan
+  critic_loss: 8.63344955444336
+  episode_reward: 329.68566596092865
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 41.60111618041992
+  total_episodes: 1262
+  total_steps: 438310
+  total_time: 24025.253051280975
+
+===== TD3 Training Step 439267 =====:
+  actor_loss: -40.501487731933594
+  critic_loss: 4.731231689453125
+  episode_reward: 331.1317987649409
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.9
+  target_q: 41.170379638671875
+  total_episodes: 1264
+  total_steps: 439267
+  total_time: 24078.518616437912
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 440099 =====:
+  actor_loss: -41.170738220214844
+  critic_loss: 19.038360595703125
+  episode_reward: 331.80539885944546
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.9
+  target_q: 41.256378173828125
+  total_episodes: 1266
+  total_steps: 440099
+  total_time: 24125.262726545334
+
+===== TD3 Training Step 441095 =====:
+  actor_loss: -44.07875061035156
+  critic_loss: 8.454566955566406
+  episode_reward: 328.40929371329077
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 44.339805603027344
+  total_episodes: 1269
+  total_steps: 441095
+  total_time: 24181.138329029083
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 442076 =====:
+  actor_loss: .nan
+  critic_loss: 7.808132171630859
+  episode_reward: 324.02484587414096
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 43.15694046020508
+  total_episodes: 1272
+  total_steps: 442076
+  total_time: 24236.30659866333
+
+===== TD3 Training Step 443114 =====:
+  actor_loss: .nan
+  critic_loss: 8.708467483520508
+  episode_reward: 326.9438089881524
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 44.461647033691406
+  total_episodes: 1274
+  total_steps: 443114
+  total_time: 24294.755474328995
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 444075 =====:
+  actor_loss: -42.60297393798828
+  critic_loss: 9.820598602294922
+  episode_reward: 330.0251081980894
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.9
+  target_q: 42.30579376220703
+  total_episodes: 1276
+  total_steps: 444075
+  total_time: 24348.63271999359
+
+===== TD3 Training Step 445203 =====:
+  actor_loss: -43.197235107421875
+  critic_loss: 7.82391357421875
+  episode_reward: 326.1793309441721
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 43.092445373535156
+  total_episodes: 1279
+  total_steps: 445203
+  total_time: 24411.80509495735
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 446219 =====:
+  actor_loss: -45.346099853515625
+  critic_loss: 7.185664176940918
+  episode_reward: 328.07587664537766
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 44.609962463378906
+  total_episodes: 1281
+  total_steps: 446219
+  total_time: 24469.12650370598
+
+===== TD3 Training Step 447342 =====:
+  actor_loss: .nan
+  critic_loss: 3.3774008750915527
+  episode_reward: 328.5483839244837
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 41.618980407714844
+  total_episodes: 1283
+  total_steps: 447342
+  total_time: 24533.054672002792
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 448452 =====:
+  actor_loss: .nan
+  critic_loss: 6.391084671020508
+  episode_reward: 331.0820640388399
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 44.74150848388672
+  total_episodes: 1285
+  total_steps: 448452
+  total_time: 24595.771456956863
+
+===== TD3 Training Step 449024 =====:
+  actor_loss: .nan
+  critic_loss: 8.239811897277832
+  episode_reward: 331.60394780563786
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 41.95628356933594
+  total_episodes: 1286
+  total_steps: 449024
+  total_time: 24627.679240226746
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 450104 =====:
+  actor_loss: .nan
+  critic_loss: 8.657554626464844
+  episode_reward: 331.29187350213755
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 43.921836853027344
+  total_episodes: 1288
+  total_steps: 450104
+  total_time: 24688.618666648865
+
+===== TD3 Training Step 451138 =====:
+  actor_loss: .nan
+  critic_loss: 6.372018337249756
+  episode_reward: 333.52092804274827
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.91
+  target_q: 40.85927963256836
+  total_episodes: 1290
+  total_steps: 451138
+  total_time: 24746.685722589493
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 452175 =====:
+  actor_loss: -39.530391693115234
+  critic_loss: 7.3269147872924805
+  episode_reward: 331.624611946981
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.9
+  target_q: 39.62751388549805
+  total_episodes: 1293
+  total_steps: 452175
+  total_time: 24804.60201692581
+
+===== TD3 Training Step 453092 =====:
+  actor_loss: .nan
+  critic_loss: 5.4624834060668945
+  episode_reward: 332.59057359680446
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.9
+  target_q: 43.78297424316406
+  total_episodes: 1295
+  total_steps: 453092
+  total_time: 24856.258120775223
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 454159 =====:
+  actor_loss: -41.213714599609375
+  critic_loss: 28.02988624572754
+  episode_reward: 335.81932138713427
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.91
+  target_q: 40.99641418457031
+  total_episodes: 1297
+  total_steps: 454159
+  total_time: 24915.875515937805
+
+===== TD3 Training Step 455061 =====:
+  actor_loss: -41.920875549316406
+  critic_loss: 10.548677444458008
+  episode_reward: 333.8023506744106
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.91
+  target_q: 41.454811096191406
+  total_episodes: 1299
+  total_steps: 455061
+  total_time: 24966.33372068405
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 456070 =====:
+  actor_loss: .nan
+  critic_loss: 6.474634647369385
+  episode_reward: 332.31849612710545
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.91
+  target_q: 42.41752624511719
+  total_episodes: 1301
+  total_steps: 456070
+  total_time: 25023.403881549835
+
+===== TD3 Training Step 457005 =====:
+  actor_loss: -43.75524139404297
+  critic_loss: 15.788602828979492
+  episode_reward: 331.89741691851725
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.91
+  target_q: 43.7639045715332
+  total_episodes: 1303
+  total_steps: 457005
+  total_time: 25075.854025363922
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 458046 =====:
+  actor_loss: .nan
+  critic_loss: 5.653705596923828
+  episode_reward: 335.4058889539728
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.92
+  target_q: 41.448585510253906
+  total_episodes: 1305
+  total_steps: 458046
+  total_time: 25134.28073334694
+
+===== TD3 Training Step 459015 =====:
+  actor_loss: -41.213287353515625
+  critic_loss: 5.340335845947266
+  episode_reward: 335.20398240206623
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.92
+  target_q: 41.176368713378906
+  total_episodes: 1307
+  total_steps: 459015
+  total_time: 25188.85310792923
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 460109 =====:
+  actor_loss: -42.591041564941406
+  critic_loss: 4.894365310668945
+  episode_reward: 336.25536687471526
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.91
+  target_q: 42.599281311035156
+  total_episodes: 1309
+  total_steps: 460109
+  total_time: 25251.068761587143
+
+===== TD3 Training Step 461050 =====:
+  actor_loss: .nan
+  critic_loss: 20.68606948852539
+  episode_reward: 332.5417781983643
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 41.798789978027344
+  total_episodes: 1312
+  total_steps: 461050
+  total_time: 25304.23612165451
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 462018 =====:
+  actor_loss: .nan
+  critic_loss: 8.339096069335938
+  episode_reward: 332.90484309930986
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 40.21534729003906
+  total_episodes: 1314
+  total_steps: 462018
+  total_time: 25358.52273797989
+
+===== TD3 Training Step 463234 =====:
+  actor_loss: .nan
+  critic_loss: 8.143707275390625
+  episode_reward: 330.900234952004
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 42.769309997558594
+  total_episodes: 1317
+  total_steps: 463234
+  total_time: 25426.16436481476
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 464367 =====:
+  actor_loss: -40.281280517578125
+  critic_loss: 6.217727184295654
+  episode_reward: 331.8997013362202
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 40.36860275268555
+  total_episodes: 1319
+  total_steps: 464367
+  total_time: 25490.91278553009
+
+===== TD3 Training Step 465259 =====:
+  actor_loss: -44.07582092285156
+  critic_loss: 10.41975212097168
+  episode_reward: 329.92569882234216
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 43.647605895996094
+  total_episodes: 1322
+  total_steps: 465259
+  total_time: 25539.71924805641
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 466242 =====:
+  actor_loss: .nan
+  critic_loss: 4.432184219360352
+  episode_reward: 332.042016317999
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.9
+  target_q: 40.3763427734375
+  total_episodes: 1324
+  total_steps: 466242
+  total_time: 25594.883950710297
+
+===== TD3 Training Step 467050 =====:
+  actor_loss: .nan
+  critic_loss: 8.191067695617676
+  episode_reward: 332.7123457819868
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.9
+  target_q: 43.41619110107422
+  total_episodes: 1326
+  total_steps: 467050
+  total_time: 25640.480120658875
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 468049 =====:
+  actor_loss: -42.118316650390625
+  critic_loss: 4.878643989562988
+  episode_reward: 334.8203451690357
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.9
+  target_q: 42.22151184082031
+  total_episodes: 1328
+  total_steps: 468049
+  total_time: 25696.344031095505
+
+===== TD3 Training Step 469035 =====:
+  actor_loss: -41.08708572387695
+  critic_loss: 11.395135879516602
+  episode_reward: 337.35573075475804
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.9
+  target_q: 41.13690185546875
+  total_episodes: 1330
+  total_steps: 469035
+  total_time: 25751.74394917488
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 470336 =====:
+  actor_loss: .nan
+  critic_loss: 11.829460144042969
+  episode_reward: 336.4938112259406
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.89
+  target_q: 43.08274841308594
+  total_episodes: 1333
+  total_steps: 470336
+  total_time: 25825.06206059456
+
+===== TD3 Training Step 471337 =====:
+  actor_loss: -41.63832473754883
+  critic_loss: 12.703202247619629
+  episode_reward: 336.0847655212078
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.88
+  target_q: 42.08580780029297
+  total_episodes: 1334
+  total_steps: 471337
+  total_time: 25880.892825365067
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 472173 =====:
+  actor_loss: -42.40985107421875
+  critic_loss: 5.768996238708496
+  episode_reward: 336.51594390582693
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.87
+  target_q: 42.27497863769531
+  total_episodes: 1336
+  total_steps: 472173
+  total_time: 25927.3822991848
+
+===== TD3 Training Step 473475 =====:
+  actor_loss: -42.366355895996094
+  critic_loss: 9.063305854797363
+  episode_reward: 333.63123275636406
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 41.93217468261719
+  total_episodes: 1339
+  total_steps: 473475
+  total_time: 26001.161762952805
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 474041 =====:
+  actor_loss: -41.20212936401367
+  critic_loss: 5.337425231933594
+  episode_reward: 333.8838051055445
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 40.9294548034668
+  total_episodes: 1340
+  total_steps: 474041
+  total_time: 26032.65594935417
+
+===== TD3 Training Step 475051 =====:
+  actor_loss: -42.60699462890625
+  critic_loss: 7.606558799743652
+  episode_reward: 334.1816686261438
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.86
+  target_q: 42.761268615722656
+  total_episodes: 1344
+  total_steps: 475051
+  total_time: 26089.67894101143
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 476182 =====:
+  actor_loss: .nan
+  critic_loss: 17.16236114501953
+  episode_reward: 328.65083465094716
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 42.46835708618164
+  total_episodes: 1348
+  total_steps: 476182
+  total_time: 26153.1192214489
+
+===== TD3 Training Step 477496 =====:
+  actor_loss: .nan
+  critic_loss: 11.928812980651855
+  episode_reward: 329.915888310494
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 41.286659240722656
+  total_episodes: 1351
+  total_steps: 477496
+  total_time: 26227.218670368195
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 478507 =====:
+  actor_loss: -43.09347915649414
+  critic_loss: 9.604156494140625
+  episode_reward: 331.4394976094582
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 43.52083969116211
+  total_episodes: 1353
+  total_steps: 478507
+  total_time: 26284.04132771492
+
+===== TD3 Training Step 479052 =====:
+  actor_loss: .nan
+  critic_loss: 10.169958114624023
+  episode_reward: 331.49394428201964
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 43.576904296875
+  total_episodes: 1354
+  total_steps: 479052
+  total_time: 26314.536111354828
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 480244 =====:
+  actor_loss: .nan
+  critic_loss: 5.613617420196533
+  episode_reward: 329.43484145764415
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 42.58226776123047
+  total_episodes: 1357
+  total_steps: 480244
+  total_time: 26380.903713464737
+
+===== TD3 Training Step 481193 =====:
+  actor_loss: -41.349876403808594
+  critic_loss: 5.172071933746338
+  episode_reward: 330.1214481583343
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 40.74237823486328
+  total_episodes: 1359
+  total_steps: 481193
+  total_time: 26434.760147333145
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 482205 =====:
+  actor_loss: -40.742496490478516
+  critic_loss: 5.292850494384766
+  episode_reward: 331.28039395016344
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 40.92012023925781
+  total_episodes: 1361
+  total_steps: 482205
+  total_time: 26491.8757750988
+
+===== TD3 Training Step 483463 =====:
+  actor_loss: -41.27633285522461
+  critic_loss: 5.77064847946167
+  episode_reward: 330.4771323609316
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 41.70157241821289
+  total_episodes: 1364
+  total_steps: 483463
+  total_time: 26561.982079982758
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 484197 =====:
+  actor_loss: -42.47905731201172
+  critic_loss: 7.1472697257995605
+  episode_reward: 330.3391310014673
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 41.965789794921875
+  total_episodes: 1366
+  total_steps: 484197
+  total_time: 26603.610247135162
+
+===== TD3 Training Step 485327 =====:
+  actor_loss: -43.93144989013672
+  critic_loss: 4.473048210144043
+  episode_reward: 333.60693518223735
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 44.37567901611328
+  total_episodes: 1368
+  total_steps: 485327
+  total_time: 26666.68287420273
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 486102 =====:
+  actor_loss: .nan
+  critic_loss: 4.875894546508789
+  episode_reward: 332.50796284272764
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 43.216285705566406
+  total_episodes: 1370
+  total_steps: 486102
+  total_time: 26709.696110725403
+
+===== TD3 Training Step 487226 =====:
+  actor_loss: .nan
+  critic_loss: 13.818065643310547
+  episode_reward: 337.57422298363497
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 42.72296142578125
+  total_episodes: 1372
+  total_steps: 487226
+  total_time: 26772.797642469406
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 488210 =====:
+  actor_loss: .nan
+  critic_loss: 15.616649627685547
+  episode_reward: 336.37154225422535
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 42.53562927246094
+  total_episodes: 1374
+  total_steps: 488210
+  total_time: 26828.811859846115
+
+===== TD3 Training Step 489372 =====:
+  actor_loss: .nan
+  critic_loss: 7.82124662399292
+  episode_reward: 337.5258341804809
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 41.89862823486328
+  total_episodes: 1377
+  total_steps: 489372
+  total_time: 26895.14035844803
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 490414 =====:
+  actor_loss: .nan
+  critic_loss: 7.092535972595215
+  episode_reward: 338.6310872100274
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 41.599754333496094
+  total_episodes: 1379
+  total_steps: 490414
+  total_time: 26954.32275414467
+
+===== TD3 Training Step 491319 =====:
+  actor_loss: -40.2445182800293
+  critic_loss: 8.968531608581543
+  episode_reward: 338.0574048584347
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 39.806983947753906
+  total_episodes: 1381
+  total_steps: 491319
+  total_time: 27004.82114458084
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 492263 =====:
+  actor_loss: -43.19639587402344
+  critic_loss: 7.976093292236328
+  episode_reward: 337.4650330740214
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 43.32164001464844
+  total_episodes: 1383
+  total_steps: 492263
+  total_time: 27058.062568426132
+
+===== TD3 Training Step 493342 =====:
+  actor_loss: .nan
+  critic_loss: 4.21588659286499
+  episode_reward: 337.9283155619254
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 41.61424255371094
+  total_episodes: 1385
+  total_steps: 493342
+  total_time: 27118.977973222733
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 494461 =====:
+  actor_loss: -43.2579231262207
+  critic_loss: 5.528192043304443
+  episode_reward: 338.00532233411565
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 42.603782653808594
+  total_episodes: 1387
+  total_steps: 494461
+  total_time: 27181.75826692581
+
+===== TD3 Training Step 495367 =====:
+  actor_loss: -39.98401641845703
+  critic_loss: 11.44093132019043
+  episode_reward: 336.2615781823665
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 39.36138916015625
+  total_episodes: 1389
+  total_steps: 495367
+  total_time: 27232.58344578743
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 496172 =====:
+  actor_loss: .nan
+  critic_loss: 9.276594161987305
+  episode_reward: 335.92391050289376
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.83
+  target_q: 43.887901306152344
+  total_episodes: 1391
+  total_steps: 496172
+  total_time: 27277.384028196335
+
+===== TD3 Training Step 497232 =====:
+  actor_loss: .nan
+  critic_loss: 5.571362018585205
+  episode_reward: 340.18546074717176
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 42.17146682739258
+  total_episodes: 1393
+  total_steps: 497232
+  total_time: 27337.643886327744
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.
+===== TD3 Training Step 498160 =====:
+  actor_loss: .nan
+  critic_loss: 6.147940635681152
+  episode_reward: 339.3579068680277
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.84
+  target_q: 39.460472106933594
+  total_episodes: 1395
+  total_steps: 498160
+  total_time: 27385.750054121017
+
+===== TD3 Training Step 499101 =====:
+  actor_loss: -42.865135192871094
+  critic_loss: 8.315196990966797
+  episode_reward: 334.01503448626426
+  frame_per_second: 18
+  log_dir: MetaDrive-Tut-50Env-v0
+  success_rate: 0.82
+  target_q: 42.30792999267578
+  total_episodes: 1398
+  total_steps: 499101
+  total_time: 27426.389590978622
+
+Trainer is saved at <MetaDrive-Tut-50Env-v0/td3>. Progress is saved at <MetaDrive-Tut-50Env-v0/td3/progress.csv>.

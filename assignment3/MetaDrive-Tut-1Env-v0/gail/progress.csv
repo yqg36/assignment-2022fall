@@ -1,0 +1,2 @@
+,log_dir,frame_per_second,episode_reward,policy_loss,entropy,discriminator_loss,gail_reward,total_loss,grad_norm,adv_mean,ratio,total_steps,total_episodes,iteration,total_time,success_rate
+0,/home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/gail,169,8.311131849354183,-0.00931428513632944,2.7558412903394456,0.2877075545143527,0.008126771533622956,-0.00931428513632944,0.9945513958350206,,0.9999822929883615,20000,17,0,118.20061421394348,0.0

@@ -64,7 +64,7 @@ if __name__ == '__main__':
 
     trainer = GAILTrainer(envs, config)
 
-    trainer.load_w(log_dir, suffix="final")
+    # trainer.load_w(log_dir, suffix="final")
 
 
     def _policy(obs):

@@ -1,0 +1,920 @@
+/home/yingqi/assignment-2022fall/assignment3/core
+:device(warning): /dev/input/event2 is not readable, some features will be unavailable.
+:device(warning): :device/dev/input/event(2warning is not readable, some features will be unavailable.
+): /dev/input/event2 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event2 is not readable, some features will be unavailable.
+:device:device((warningwarning): ): /dev/input/event/dev/input/event22:device is not readable, some features will be unavailable.
+ is not readable, some features will be unavailable.
+(warning): /dev/input/event2 is not readable, some features will be unavailable.
+:device(error): Error initializing inotify: Bad file descriptor
+:device(warning): /dev/input/event2 is not readable, some features will be unavailable.
+:device(error): Error initializing inotify: Bad file descriptor
+:device(warning): /dev/input/event2 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event2 is not readable, some features will be unavailable.
+Start training!
+===== ppo Training Iteration 0 =====:
+  adv_mean: 0.1715632528066635
+  entropy: 2.7946369375938023
+  episode_reward: 7.225892523613768
+  frame_per_second: 167
+  grad_norm: 0.9897332156315828
+  iteration: 0
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.00669107774260621
+  ratio: 1.0006002094501103
+  success_rate: 0.0
+  total_episodes: 19
+  total_loss: 0.05009339525221059
+  total_steps: 20000
+  total_time: 119.49248623847961
+  value_loss: 0.05678447320854339
+
+Trainer is saved at </home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo/checkpoint-iter0.pkl>. Progress is saved at </home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo/progress.csv>.
+===== ppo Training Iteration 1 =====:
+  adv_mean: 0.23635922372341156
+  entropy: 2.7441743340247715
+  episode_reward: 10.637902533393978
+  frame_per_second: 166
+  grad_norm: 1.1702945910967313
+  iteration: 1
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.01464745268667451
+  ratio: 1.0008136802758927
+  success_rate: 0.0
+  total_episodes: 42
+  total_loss: 0.020730528907957846
+  total_steps: 40000
+  total_time: 240.89245343208313
+  value_loss: 0.03537798143553142
+
+===== ppo Training Iteration 2 =====:
+  adv_mean: 0.29575175046920776
+  entropy: 2.6581914372933215
+  episode_reward: 12.403079463138102
+  frame_per_second: 161
+  grad_norm: 1.479330355502092
+  iteration: 2
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.011695882503110438
+  ratio: 0.9998030868096229
+  success_rate: 0.0
+  total_episodes: 67
+  total_loss: 0.0930774364554777
+  total_steps: 60000
+  total_time: 370.8726167678833
+  value_loss: 0.10477331910425654
+
+===== ppo Training Iteration 3 =====:
+  adv_mean: 0.3623349368572235
+  entropy: 2.5950591998222547
+  episode_reward: 15.042304244345326
+  frame_per_second: 159
+  grad_norm: 1.6584043890619888
+  iteration: 3
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.010831397244085867
+  ratio: 0.998090364306401
+  success_rate: 0.0
+  total_episodes: 96
+  total_loss: 0.14394973585686574
+  total_steps: 80000
+  total_time: 502.233439207077
+  value_loss: 0.15478113310841413
+
+===== ppo Training Iteration 4 =====:
+  adv_mean: 0.4618297815322876
+  entropy: 2.46244937762236
+  episode_reward: 19.026008137655353
+  frame_per_second: 157
+  grad_norm: 2.028404030108299
+  iteration: 4
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.00896318885557449
+  ratio: 1.000191725905125
+  success_rate: 0.0
+  total_episodes: 136
+  total_loss: 0.37635767831711864
+  total_steps: 100000
+  total_time: 633.417188167572
+  value_loss: 0.3853208667765825
+
+===== ppo Training Iteration 5 =====:
+  adv_mean: 0.6235582232475281
+  entropy: 2.3556930505312406
+  episode_reward: 19.29075041435933
+  frame_per_second: 156
+  grad_norm: 2.6369687903767978
+  iteration: 5
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.008341536060787547
+  ratio: 1.0006207668628448
+  success_rate: 0.0
+  total_episodes: 197
+  total_loss: 0.6429289494187403
+  total_steps: 120000
+  total_time: 766.802063703537
+  value_loss: 0.6512704795369735
+
+===== ppo Training Iteration 6 =====:
+  adv_mean: 0.7186044454574585
+  entropy: 2.2370981408999517
+  episode_reward: 16.874407018672404
+  frame_per_second: 155
+  grad_norm: 4.423620617084014
+  iteration: 6
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.006674741405563859
+  ratio: 0.9998413897477664
+  success_rate: 0.0
+  total_episodes: 297
+  total_loss: 1.1381718008181987
+  total_steps: 140000
+  total_time: 901.6638417243958
+  value_loss: 1.144846541682879
+
+===== ppo Training Iteration 7 =====:
+  adv_mean: 1.277591347694397
+  entropy: 2.185521224523202
+  episode_reward: 27.593603661615592
+  frame_per_second: 154
+  grad_norm: 8.211749449066627
+  iteration: 7
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.010157956591902826
+  ratio: 1.000864118643296
+  success_rate: 0.0
+  total_episodes: 376
+  total_loss: 1.3485766861683284
+  total_steps: 160000
+  total_time: 1037.0512416362762
+  value_loss: 1.358734642007412
+
+===== ppo Training Iteration 8 =====:
+  adv_mean: 1.626338243484497
+  entropy: 2.0492445580470258
+  episode_reward: 37.219106705557046
+  frame_per_second: 153
+  grad_norm: 9.126248908042907
+  iteration: 8
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.009718090300567639
+  ratio: 0.9996836163294621
+  success_rate: 0.0
+  total_episodes: 457
+  total_loss: 2.820648247614885
+  total_steps: 180000
+  total_time: 1173.0322272777557
+  value_loss: 2.8303663360766875
+
+===== ppo Training Iteration 9 =====:
+  adv_mean: 2.3055148124694824
+  entropy: 1.9621853209458864
+  episode_reward: 51.8108783281508
+  frame_per_second: 152
+  grad_norm: 9.936190621669477
+  iteration: 9
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.007596301243234522
+  ratio: 0.9985881535670696
+  success_rate: 0.0
+  total_episodes: 537
+  total_loss: 4.4333347928829685
+  total_steps: 200000
+  total_time: 1310.4200813770294
+  value_loss: 4.440931099500411
+
+===== ppo Training Iteration 10 =====:
+  adv_mean: 3.4439990520477295
+  entropy: 1.8390014830308083
+  episode_reward: 79.47639478379784
+  frame_per_second: 151
+  grad_norm: 19.740787876263642
+  iteration: 10
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.0062614249435659405
+  ratio: 1.000659661873793
+  success_rate: 0.0
+  total_episodes: 620
+  total_loss: 6.5450491483394915
+  total_steps: 220000
+  total_time: 1449.2745475769043
+  value_loss: 6.551310566144112
+
+Trainer is saved at </home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo/checkpoint-iter10.pkl>. Progress is saved at </home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo/progress.csv>.
+===== ppo Training Iteration 11 =====:
+  adv_mean: 4.0420098304748535
+  entropy: 1.7718224808191643
+  episode_reward: 93.39038907561024
+  frame_per_second: 151
+  grad_norm: 25.81349119956677
+  iteration: 11
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.003515960716117078
+  ratio: 0.9999365144051038
+  success_rate: 0.0
+  total_episodes: 706
+  total_loss: 10.906351903768686
+  total_steps: 240000
+  total_time: 1589.0879900455475
+  value_loss: 10.909867916963039
+
+===== ppo Training Iteration 12 =====:
+  adv_mean: 4.0975661277771
+  entropy: 1.7439144065746894
+  episode_reward: 111.15584262174897
+  frame_per_second: 150
+  grad_norm: 29.704994540948135
+  iteration: 12
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.003924427321777703
+  ratio: 0.9993084906003414
+  success_rate: 0.0
+  total_episodes: 787
+  total_loss: 14.32973823975294
+  total_steps: 260000
+  total_time: 1726.2824053764343
+  value_loss: 14.33366269331712
+
+===== ppo Training Iteration 13 =====:
+  adv_mean: 4.177653789520264
+  entropy: 1.6254922305926298
+  episode_reward: 111.40213064830728
+  frame_per_second: 150
+  grad_norm: 37.625388301030185
+  iteration: 13
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.003804837446062802
+  ratio: 0.9999437589675952
+  success_rate: 0.0
+  total_episodes: 884
+  total_loss: 21.9454235627101
+  total_steps: 280000
+  total_time: 1864.776948928833
+  value_loss: 21.949228356434748
+
+===== ppo Training Iteration 14 =====:
+  adv_mean: 4.476470470428467
+  entropy: 1.5643978990041292
+  episode_reward: 141.75091782202114
+  frame_per_second: 149
+  grad_norm: 56.82551777729621
+  iteration: 14
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.0021447412389067884
+  ratio: 1.0000707077674376
+  success_rate: 0.0
+  total_episodes: 971
+  total_loss: 25.68423763055068
+  total_steps: 300000
+  total_time: 2002.6484293937683
+  value_loss: 25.686382362170097
+
+===== ppo Training Iteration 15 =====:
+  adv_mean: 5.197656631469727
+  entropy: 1.4383224687515161
+  episode_reward: 168.40525201919604
+  frame_per_second: 149
+  grad_norm: 73.02861287593842
+  iteration: 15
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.0007406892935530497
+  ratio: 1.000897511992699
+  success_rate: 0.0
+  total_episodes: 1054
+  total_loss: 31.14157523619823
+  total_steps: 320000
+  total_time: 2142.6788759231567
+  value_loss: 31.14231594036787
+
+===== ppo Training Iteration 16 =====:
+  adv_mean: 5.117725849151611
+  entropy: 1.3364986332563253
+  episode_reward: 177.42374534606276
+  frame_per_second: 149
+  grad_norm: 83.77690122799996
+  iteration: 16
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 5.761049807262726e-05
+  ratio: 1.0001419444114734
+  success_rate: 0.0
+  total_episodes: 1142
+  total_loss: 41.63407191985693
+  total_steps: 340000
+  total_time: 2281.156169652939
+  value_loss: 41.63401427146716
+
+===== ppo Training Iteration 17 =====:
+  adv_mean: 4.579433917999268
+  entropy: 1.2670351048310597
+  episode_reward: 182.2548449837537
+  frame_per_second: 148
+  grad_norm: 121.6258467747615
+  iteration: 17
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.0004934246389147563
+  ratio: 1.0003162251833158
+  success_rate: 0.0
+  total_episodes: 1234
+  total_loss: 48.66703712756817
+  total_steps: 360000
+  total_time: 2419.0354404449463
+  value_loss: 48.66753053665161
+
+===== ppo Training Iteration 18 =====:
+  adv_mean: 5.192389488220215
+  entropy: 1.230509421000114
+  episode_reward: 214.30185878788478
+  frame_per_second: 148
+  grad_norm: 131.5458686364003
+  iteration: 18
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.0005516140500847728
+  ratio: 0.9998942265907923
+  success_rate: 0.0
+  total_episodes: 1315
+  total_loss: 43.15949252691024
+  total_steps: 380000
+  total_time: 2559.7613048553467
+  value_loss: 43.160044085673796
+
+===== ppo Training Iteration 19 =====:
+  adv_mean: 3.582895278930664
+  entropy: 1.1962846575639188
+  episode_reward: 192.9530746502204
+  frame_per_second: 148
+  grad_norm: 170.1020536104838
+  iteration: 19
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.0002259994236131509
+  ratio: 0.9995754164762986
+  success_rate: 0.0
+  total_episodes: 1402
+  total_loss: 51.19937117160895
+  total_steps: 400000
+  total_time: 2698.8100547790527
+  value_loss: 51.1991450774364
+
+===== ppo Training Iteration 20 =====:
+  adv_mean: 3.7069389820098877
+  entropy: 1.1600400562469775
+  episode_reward: 204.78762295376524
+  frame_per_second: 148
+  grad_norm: 198.1027495213044
+  iteration: 20
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.0003523915009095501
+  ratio: 1.0007192310614463
+  success_rate: 0.0
+  total_episodes: 1487
+  total_loss: 49.20826089321039
+  total_steps: 420000
+  total_time: 2835.0938308238983
+  value_loss: 49.20861327342498
+
+Trainer is saved at </home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo/checkpoint-iter20.pkl>. Progress is saved at </home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo/progress.csv>.
+===== ppo Training Iteration 21 =====:
+  adv_mean: 3.407857656478882
+  entropy: 1.086980793109307
+  episode_reward: 223.68279206599217
+  frame_per_second: 148
+  grad_norm: 203.9388011247684
+  iteration: 21
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.001227469394246164
+  ratio: 0.9993660076306417
+  success_rate: 0.0
+  total_episodes: 1572
+  total_loss: 40.58017123784774
+  total_steps: 440000
+  total_time: 2972.794021129608
+  value_loss: 40.57894361691597
+
+===== ppo Training Iteration 22 =====:
+  adv_mean: 2.9108314514160156
+  entropy: 1.0773160008283762
+  episode_reward: 220.64940227475353
+  frame_per_second: 147
+  grad_norm: 245.92094903603578
+  iteration: 22
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -0.0012788630848845992
+  ratio: 1.0011164524616338
+  success_rate: 0.0
+  total_episodes: 1659
+  total_loss: 48.650783430001674
+  total_steps: 460000
+  total_time: 3109.876585483551
+  value_loss: 48.65206212141575
+
+===== ppo Training Iteration 23 =====:
+  adv_mean: 3.238029718399048
+  entropy: 1.0674494423927405
+  episode_reward: 243.77117519757178
+  frame_per_second: 147
+  grad_norm: 248.46852203271328
+  iteration: 23
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.004800236033490644
+  ratio: 1.0001205401542859
+  success_rate: 0.0
+  total_episodes: 1742
+  total_loss: 30.94376406425085
+  total_steps: 480000
+  total_time: 3248.8949720859528
+  value_loss: 30.938963754360493
+
+===== ppo Training Iteration 24 =====:
+  adv_mean: 2.6520514488220215
+  entropy: 1.0351764323619697
+  episode_reward: 245.9681940520838
+  frame_per_second: 147
+  grad_norm: 281.765316258944
+  iteration: 24
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.001453326280730275
+  ratio: 1.0006025621524224
+  success_rate: 0.0
+  total_episodes: 1827
+  total_loss: 31.024601869094067
+  total_steps: 500000
+  total_time: 3389.582384109497
+  value_loss: 31.023148411970872
+
+===== ppo Training Iteration 25 =====:
+  adv_mean: 3.271002769470215
+  entropy: 0.9067946514258018
+  episode_reward: 252.77083035169872
+  frame_per_second: 147
+  grad_norm: 252.73519736558964
+  iteration: 25
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.002936594173288307
+  ratio: 0.9997555304796267
+  success_rate: 0.0
+  total_episodes: 1910
+  total_loss: 21.87332970851507
+  total_steps: 520000
+  total_time: 3528.9308495521545
+  value_loss: 21.870393091593034
+
+===== ppo Training Iteration 26 =====:
+  adv_mean: 2.178227186203003
+  entropy: 0.8586698921827169
+  episode_reward: 252.31462645064053
+  frame_per_second: 147
+  grad_norm: 353.3923369334294
+  iteration: 26
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.009242362286656713
+  ratio: 1.0002080021760402
+  success_rate: 0.0
+  total_episodes: 1999
+  total_loss: 32.36147456046862
+  total_steps: 540000
+  total_time: 3668.5678148269653
+  value_loss: 32.35223221289806
+
+===== ppo Training Iteration 27 =====:
+  adv_mean: 1.9763407707214355
+  entropy: 0.8439726085234911
+  episode_reward: 254.37402884203001
+  frame_per_second: 146
+  grad_norm: 301.86960412049905
+  iteration: 27
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.0018995529160094568
+  ratio: 0.9993627020945915
+  success_rate: 0.0
+  total_episodes: 2085
+  total_loss: 25.219924248793188
+  total_steps: 560000
+  total_time: 3810.164573431015
+  value_loss: 25.218024681775997
+
+===== ppo Training Iteration 28 =====:
+  adv_mean: 0.8684009313583374
+  entropy: 0.8258502667530989
+  episode_reward: 244.3908265757063
+  frame_per_second: 146
+  grad_norm: 375.8179485223232
+  iteration: 28
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.0020067797579730933
+  ratio: 0.9992213809337371
+  success_rate: 0.0
+  total_episodes: 2175
+  total_loss: 31.6194849503346
+  total_steps: 580000
+  total_time: 3949.1384122371674
+  value_loss: 31.617478090677505
+
+===== ppo Training Iteration 29 =====:
+  adv_mean: 1.5620062351226807
+  entropy: 0.8038909425338109
+  episode_reward: 258.987163270949
+  frame_per_second: 146
+  grad_norm: 343.6842824691381
+  iteration: 29
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.007204800284204957
+  ratio: 0.99990049745792
+  success_rate: 0.0
+  total_episodes: 2263
+  total_loss: 14.971097732201601
+  total_steps: 600000
+  total_time: 4091.443094968796
+  value_loss: 14.96389292570261
+
+===== ppo Training Iteration 30 =====:
+  adv_mean: 1.4924498796463013
+  entropy: 0.7186039662513978
+  episode_reward: 255.79209360645746
+  frame_per_second: 146
+  grad_norm: 353.0473853869316
+  iteration: 30
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.005256567533629445
+  ratio: 0.9997621478942724
+  success_rate: 0.0
+  total_episodes: 2353
+  total_loss: 20.182562195337734
+  total_steps: 620000
+  total_time: 4233.7720584869385
+  value_loss: 20.177305637873136
+
+Trainer is saved at </home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo/checkpoint-iter30.pkl>. Progress is saved at </home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo/progress.csv>.
+===== ppo Training Iteration 31 =====:
+  adv_mean: 1.5028245449066162
+  entropy: 0.6169295670130314
+  episode_reward: 253.78930951967982
+  frame_per_second: 146
+  grad_norm: 419.90528942010343
+  iteration: 31
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.003868446308367241
+  ratio: 0.9999061547792875
+  success_rate: 0.0
+  total_episodes: 2447
+  total_loss: 19.69453520897107
+  total_steps: 640000
+  total_time: 4372.762277603149
+  value_loss: 19.690666775825697
+
+===== ppo Training Iteration 32 =====:
+  adv_mean: 2.1196420192718506
+  entropy: 0.5280210920633414
+  episode_reward: 261.45921725250065
+  frame_per_second: 146
+  grad_norm: 367.12401717748395
+  iteration: 32
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.007573684375398816
+  ratio: 0.999855200602458
+  success_rate: 0.0
+  total_episodes: 2540
+  total_loss: 11.775367517043383
+  total_steps: 660000
+  total_time: 4510.104794740677
+  value_loss: 11.76779381709221
+
+===== ppo Training Iteration 33 =====:
+  adv_mean: 1.7830866575241089
+  entropy: 0.5315896307810759
+  episode_reward: 255.04220164343522
+  frame_per_second: 146
+  grad_norm: 384.8598092397054
+  iteration: 33
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.005736435919952316
+  ratio: 1.000575072872333
+  success_rate: 0.0
+  total_episodes: 2638
+  total_loss: 15.800788779442128
+  total_steps: 680000
+  total_time: 4649.611718893051
+  value_loss: 15.795052334895502
+
+===== ppo Training Iteration 34 =====:
+  adv_mean: 1.4058167934417725
+  entropy: 0.551776997706829
+  episode_reward: 261.88446860580876
+  frame_per_second: 146
+  grad_norm: 415.6767110335521
+  iteration: 34
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.00693450567449849
+  ratio: 1.000064991834836
+  success_rate: 0.0
+  total_episodes: 2734
+  total_loss: 12.094598062527485
+  total_steps: 700000
+  total_time: 4788.889311313629
+  value_loss: 12.087663519688142
+
+===== ppo Training Iteration 35 =====:
+  adv_mean: 1.4796360731124878
+  entropy: 0.48946535946466985
+  episode_reward: 265.1078847389136
+  frame_per_second: 146
+  grad_norm: 403.88879433167284
+  iteration: 35
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.0028543078549540576
+  ratio: 0.9997012427219978
+  success_rate: 0.0
+  total_episodes: 2826
+  total_loss: 11.540312451888353
+  total_steps: 720000
+  total_time: 4929.6811900138855
+  value_loss: 11.537458145312774
+
+===== ppo Training Iteration 36 =====:
+  adv_mean: 1.316324234008789
+  entropy: 0.4357351514773491
+  episode_reward: 263.6004498066785
+  frame_per_second: 145
+  grad_norm: 397.7483793063042
+  iteration: 36
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.006455629778643831
+  ratio: 0.9993432913835232
+  success_rate: 0.0
+  total_episodes: 2925
+  total_loss: 11.3726419427456
+  total_steps: 740000
+  total_time: 5069.655938625336
+  value_loss: 11.366186373967391
+
+===== ppo Training Iteration 37 =====:
+  adv_mean: 1.0123424530029297
+  entropy: 0.5431738834350537
+  episode_reward: 264.3984328165225
+  frame_per_second: 145
+  grad_norm: 420.29193953000583
+  iteration: 37
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.005708954819979576
+  ratio: 0.9990647768362975
+  success_rate: 0.0
+  total_episodes: 3019
+  total_loss: 12.412908939826183
+  total_steps: 760000
+  total_time: 5210.0210127830505
+  value_loss: 12.40719994214865
+
+===== ppo Training Iteration 38 =====:
+  adv_mean: 0.31792762875556946
+  entropy: 0.5335262499940701
+  episode_reward: 257.28826801028777
+  frame_per_second: 145
+  grad_norm: 466.4564015021691
+  iteration: 38
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.0018328528445309554
+  ratio: 0.9992794547325525
+  success_rate: 0.0
+  total_episodes: 3115
+  total_loss: 19.09768231709798
+  total_steps: 780000
+  total_time: 5352.311935186386
+  value_loss: 19.095849414360828
+
+===== ppo Training Iteration 39 =====:
+  adv_mean: 0.41913026571273804
+  entropy: 0.4663248440776116
+  episode_reward: 266.32816230796885
+  frame_per_second: 145
+  grad_norm: 360.5840147067339
+  iteration: 39
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.013960612854227806
+  ratio: 1.0000924938000166
+  success_rate: 0.0
+  total_episodes: 3212
+  total_loss: 9.11578112810086
+  total_steps: 800000
+  total_time: 5493.500777244568
+  value_loss: 9.101820507416358
+
+===== ppo Training Iteration 40 =====:
+  adv_mean: -0.2263471931219101
+  entropy: 0.4581665581999681
+  episode_reward: 257.955117345775
+  frame_per_second: 145
+  grad_norm: 444.746739363059
+  iteration: 40
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.008284614405308205
+  ratio: 1.000891816539642
+  success_rate: 0.0
+  total_episodes: 3309
+  total_loss: 18.375494081240433
+  total_steps: 820000
+  total_time: 5632.259493350983
+  value_loss: 18.36720935075711
+
+Trainer is saved at </home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo/checkpoint-iter40.pkl>. Progress is saved at </home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo/progress.csv>.
+===== ppo Training Iteration 41 =====:
+  adv_mean: 0.30678918957710266
+  entropy: 0.4099870394437741
+  episode_reward: 267.0231824154652
+  frame_per_second: 145
+  grad_norm: 392.295782539172
+  iteration: 41
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.0036990321336839442
+  ratio: 1.0002773326941026
+  success_rate: 0.0
+  total_episodes: 3408
+  total_loss: 11.22934244962839
+  total_steps: 840000
+  total_time: 5771.280489206314
+  value_loss: 11.225643388430278
+
+===== ppo Training Iteration 42 =====:
+  adv_mean: 0.614838719367981
+  entropy: 0.32113209620882305
+  episode_reward: 268.6395485597288
+  frame_per_second: 145
+  grad_norm: 326.29296103012865
+  iteration: 42
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.01718305681282893
+  ratio: 0.9971654104880797
+  success_rate: 0.0
+  total_episodes: 3503
+  total_loss: 2.9905550516568695
+  total_steps: 860000
+  total_time: 5911.638868093491
+  value_loss: 2.973372002901175
+
+===== ppo Training Iteration 43 =====:
+  adv_mean: -0.11114738136529922
+  entropy: 0.28505535171582147
+  episode_reward: 254.68366708165962
+  frame_per_second: 145
+  grad_norm: 482.937067481799
+  iteration: 43
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.006491406122222543
+  ratio: 0.9995133572664017
+  success_rate: 0.0
+  total_episodes: 3605
+  total_loss: 24.667886569255437
+  total_steps: 880000
+  total_time: 6052.194715261459
+  value_loss: 24.661395041147866
+
+===== ppo Training Iteration 44 =====:
+  adv_mean: 0.19776099920272827
+  entropy: 0.20160068006505474
+  episode_reward: 260.63738823113954
+  frame_per_second: 145
+  grad_norm: 409.19296358059614
+  iteration: 44
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.0113787113265015
+  ratio: 0.9996672902351771
+  success_rate: 0.0
+  total_episodes: 3708
+  total_loss: 9.635981787168063
+  total_steps: 900000
+  total_time: 6188.0838096141815
+  value_loss: 9.624603047737708
+
+===== ppo Training Iteration 45 =====:
+  adv_mean: 0.8241872787475586
+  entropy: 0.1898060128833048
+  episode_reward: 264.93472853335624
+  frame_per_second: 145
+  grad_norm: 422.5802802697206
+  iteration: 45
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.014120249510503924
+  ratio: 0.9978182652821908
+  success_rate: 0.0
+  total_episodes: 3810
+  total_loss: 6.394508458253664
+  total_steps: 920000
+  total_time: 6321.383103847504
+  value_loss: 6.380388203492531
+/home/yingqi/assignment-2022fall/assignment3/core
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+/home/yingqi/assignment-2022fall/assignment3/core
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+/home/yingqi/assignment-2022fall/assignment3/core
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+/home/yingqi/assignment-2022fall/assignment3/core
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+/home/yingqi/assignment-2022fall/assignment3/core
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+/home/yingqi/assignment-2022fall/assignment3/core
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+/home/yingqi/assignment-2022fall/assignment3/core
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+/home/yingqi/assignment-2022fall/assignment3/core
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+/home/yingqi/assignment-2022fall/assignment3/core
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+/home/yingqi/assignment-2022fall/assignment3/core
+Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
+Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
+train_ppo.py:140: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  episode_rewards = np.zeros([num_envs, 1], dtype=np.float)
+
+===== ppo Training Iteration 46 =====:
+  adv_mean: -12.788840293884277
+  entropy: 0.2380612918868279
+  episode_reward: 114.04141484295891
+  frame_per_second: 145
+  grad_norm: 1004.8402082589956
+  iteration: 46
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.0004741082248540643
+  ratio: 1.000896697395887
+  success_rate: 0.0
+  total_episodes: 3972
+  total_loss: 303.45261268615724
+  total_steps: 940000
+  total_time: 6453.863873958588
+  value_loss: 303.45213896922576
+
+===== ppo Training Iteration 47 =====:
+  adv_mean: -3.5333023071289062
+  entropy: 0.3361402122829205
+  episode_reward: 198.4663443411936
+  frame_per_second: 145
+  grad_norm: 658.3768143971761
+  iteration: 47
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: -3.2972321153069154e-05
+  ratio: 0.9999981574523144
+  success_rate: 0.0
+  total_episodes: 4089
+  total_loss: 95.60474830285096
+  total_steps: 960000
+  total_time: 6587.352333784103
+  value_loss: 95.60478158608461
+
+===== ppo Training Iteration 48 =====:
+  adv_mean: 0.48239755630493164
+  entropy: 0.34251831689706214
+  episode_reward: 259.85819999256876
+  frame_per_second: 145
+  grad_norm: 378.0276714520577
+  iteration: 48
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.004839100509595413
+  ratio: 1.0000412532916436
+  success_rate: 0.0
+  total_episodes: 4182
+  total_loss: 16.396485760273077
+  total_steps: 980000
+  total_time: 6717.158978462219
+  value_loss: 16.39164653649697
+
+===== ppo Training Iteration 49 =====:
+  adv_mean: -0.7492998838424683
+  entropy: 0.3211226222415765
+  episode_reward: 233.87238129190325
+  frame_per_second: 146
+  grad_norm: 490.5287382370386
+  iteration: 49
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.005213487032466592
+  ratio: 0.9991570446735774
+  success_rate: 0.0
+  total_episodes: 4285
+  total_loss: 49.477964724638525
+  total_steps: 1000000
+  total_time: 6843.554412603378
+  value_loss: 49.47275112959055
+
+===== ppo Training Iteration 50 =====:
+  adv_mean: -0.6080617308616638
+  entropy: 0.24384511443666923
+  episode_reward: 226.20600754505813
+  frame_per_second: 146
+  grad_norm: 496.0444228930351
+  iteration: 50
+  log_dir: /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo
+  policy_loss: 0.017014723697390693
+  ratio: 0.996483698945779
+  success_rate: 0.0
+  total_episodes: 4394
+  total_loss: 56.877496934548404
+  total_steps: 1020000
+  total_time: 6967.992959499359
+  value_loss: 56.86048208016616
+
+Trainer is saved at </home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo/checkpoint-iter50.pkl>. Progress is saved at </home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-1Env-v0/ppo/progress.csv>.

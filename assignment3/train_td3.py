@@ -10,7 +10,7 @@ from core.envs import make_envs
 from core.td3_trainer import ReplayBuffer, TD3Trainer
 from core.utils import pretty_print, Timer
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+device = torch.device("cuda:2" if torch.cuda.is_available() else "cpu")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
