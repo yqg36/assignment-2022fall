@@ -4,16 +4,16 @@
 /home/yingqi/assignment-2022fall/assignment3/core
 Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
 Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
-:device:device(warning): /dev/input/event2 is not readable, some features will be unavailable.
-(warning): /dev/input/event2 is not readable, some features will be unavailable.
 :device(warning): /dev/input/event2 is not readable, some features will be unavailable.
-:device(warning): /dev/input/event2 is not readable, some features will be unavailable.
-:device(warning): /dev/input/event2 is not readable, some features will be unavailable.
-:device(warning): /dev/input/event2 is not readable, some features will be unavailable.
-:device:device(:device:device(((warningwarningwarning): ): ): /dev/input/event/dev/input/event/dev/input/event222 is not readable, some features will be unavailable.
+:device:device((warningwarning): ): /dev/input/event/dev/input/event22 is not readable, some features will be unavailable.
  is not readable, some features will be unavailable.
+:device:device((warningwarning): ): /dev/input/event/dev/input/event22 is not readable, some features will be unavailable.
  is not readable, some features will be unavailable.
-warning): /dev/input/event2 is not readable, some features will be unavailable.
+:device:device((warningwarning): ): /dev/input/event/dev/input/event22 is not readable, some features will be unavailable.
+ is not readable, some features will be unavailable.
+:device:device(warning(): warning/dev/input/event): 2/dev/input/event is not readable, some features will be unavailable.
+2 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event2 is not readable, some features will be unavailable.
 /home/yingqi/assignment-2022fall/assignment3/core
 /home/yingqi/assignment-2022fall/assignment3/core
 /home/yingqi/assignment-2022fall/assignment3/core
@@ -74,17 +74,18 @@ Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'Meta
 /home/yingqi/assignment-2022fall/assignment3/core
 Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
 Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
-Finished 10/100 episodes. Average episode reward: 4.569
-Finished 20/100 episodes. Average episode reward: 5.647
-Finished 30/100 episodes. Average episode reward: 7.513
-Finished 40/100 episodes. Average episode reward: 8.639
-Finished 50/100 episodes. Average episode reward: 8.187
-Finished 60/100 episodes. Average episode reward: 8.598
-Finished 70/100 episodes. Average episode reward: 8.936
-Finished 80/100 episodes. Average episode reward: 8.697
-Finished 90/100 episodes. Average episode reward: 8.880
-Finished 100/100 episodes. Average episode reward: 8.706
+Successfully load weights from /home/yingqi/assignment-2022fall/assignment3/MetaDrive-Tut-20Env-v0/gail/checkpoint-final.pkl!
+Finished 10/100 episodes. Average episode reward: 117.925
+Finished 20/100 episodes. Average episode reward: 116.984
+Finished 30/100 episodes. Average episode reward: 124.227
+Finished 40/100 episodes. Average episode reward: 130.737
+Finished 50/100 episodes. Average episode reward: 134.148
+Finished 60/100 episodes. Average episode reward: 133.496
+Finished 70/100 episodes. Average episode reward: 137.687
+Finished 80/100 episodes. Average episode reward: 142.768
+Finished 90/100 episodes. Average episode reward: 141.815
+Finished 100/100 episodes. Average episode reward: 137.794
 100
 100
-The average return after running PPO agent for 100 episodes in MetaDrive-Tut-Test-v0 environment: 8.706034556969893.
+The average return after running PPO agent for 100 episodes in MetaDrive-Tut-Test-v0 environment: 137.7935006034792.
 Result is saved at: MetaDrive-Tut-20Env-v0/gail/eval_results.csv
