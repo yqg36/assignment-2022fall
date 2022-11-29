@@ -1,8 +1,8 @@
 # Assignment 3 of CS269 2022 Fall
 
-**NAME:** [TODO]
+**NAME:** Yingqi Gao
 
-**UID:** [TODO]
+**UID:** 705435843
 
 
 ## Learning curves of TD3
@@ -13,14 +13,14 @@
 
 (5 points)
 
-[TODO]
+![](pendulum-td3.png)
 
 
 ### TD3 in MetaDrive-Tut-Easy-v0
 
 (5 points)
 
-[TODO]
+![](metadrive-easy-td3.png)
 
 
 
@@ -55,7 +55,7 @@
 
 (5 points)
 
-[TODO]
+![](metadrive-easy-gail.png)
 
 
 
@@ -82,7 +82,17 @@ Please discuss the figure you get.
 
 (20 points are given to the figure.)
 
-[TODO]
+#### TD3
+![](generalization-td3.png)
+Yes, it looks normal. The training reward is relatively high when the trainig environment is simple and gets lower. It is harder to train when the environment is more and more complicated. And since TD3 uses clipped double-Q learning, delayed policy updates, and target policy smoothing to avoid overestimation of the Q-values, it is normal to see the training and testing rewards hold close but slightly different relationships when the training environment gets more and more complicated. 
+
+#### PPO
+![](generalization-ppo.png)
+
+#### GAIL
+![](generalization-gail.png)
+
+Yes, the above two figures for PPO and GAIL look normal. They both share high rewards for simple training environment. And they both have testing rewards always lower than training rewards no matter how complicated the environment is. 
 
 
 [TODO]: Discuss the figure. Does it look normal? If not, why? Do you have any solution?

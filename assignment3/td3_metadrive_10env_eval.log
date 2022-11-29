@@ -6,12 +6,16 @@ Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'Meta
  is not readable, some features will be unavailable.
 :device:device((warningwarning): ): /dev/input/event/dev/input/event22 is not readable, some features will be unavailable.
  is not readable, some features will be unavailable.
+:device(error:device): (Error initializing inotify: errorBad file descriptor): 
+Error initializing inotify: Bad file descriptor
 :device(warning): /dev/input/event2 is not readable, some features will be unavailable.
-:device:device:device(((warningwarningwarning): ): ): /dev/input/event/dev/input/event/dev/input/event222 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event:device2( is not readable, some features will be unavailable.
+warning): /dev/input/event2 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event2 is not readable, some features will be unavailable.
+:device:device((errorerror): ): Error initializing inotify: Error initializing inotify: Bad file descriptorBad file descriptor
+
+:device:device((warningwarning): ): /dev/input/event/dev/input/event22 is not readable, some features will be unavailable.
  is not readable, some features will be unavailable.
- is not readable, some features will be unavailable.
-:device(warning): /dev/input/event2 is not readable, some features will be unavailable.
-:device(warning): /dev/input/event2 is not readable, some features will be unavailable.
 /home/yingqi/assignment-2022fall/assignment3/core
 /home/yingqi/assignment-2022fall/assignment3/core
 Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
@@ -52,17 +56,17 @@ Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'Meta
 /home/yingqi/assignment-2022fall/assignment3/core
 Successfully registered the following environments: ['MetaDrive-validation-v0', 'MetaDrive-10env-v0', 'MetaDrive-100envs-v0', 'MetaDrive-1000envs-v0', 'SafeMetaDrive-validation-v0', 'SafeMetaDrive-10env-v0', 'SafeMetaDrive-100envs-v0', 'SafeMetaDrive-1000envs-v0', 'MARLTollgate-v0', 'MARLBottleneck-v0', 'MARLRoundabout-v0', 'MARLIntersection-v0', 'MARLParkingLot-v0', 'MARLMetaDrive-v0'].
 Successfully registered MetaDrive environments:  ['MetaDrive-Tut-Easy-v0', 'MetaDrive-Tut-Hard-v0', 'MetaDrive-Tut-1Env-v0', 'MetaDrive-Tut-5Env-v0', 'MetaDrive-Tut-10Env-v0', 'MetaDrive-Tut-20Env-v0', 'MetaDrive-Tut-50Env-v0', 'MetaDrive-Tut-100Env-v0', 'MetaDrive-Tut-Test-v0']
-Finished 10/100 episodes. Average episode reward: 301.565
-Finished 20/100 episodes. Average episode reward: 316.065
-Finished 30/100 episodes. Average episode reward: 307.072
-Finished 40/100 episodes. Average episode reward: 300.080
-Finished 50/100 episodes. Average episode reward: 305.665
-Finished 60/100 episodes. Average episode reward: 314.197
-Finished 70/100 episodes. Average episode reward: 311.870
-Finished 80/100 episodes. Average episode reward: 316.775
-Finished 90/100 episodes. Average episode reward: 317.647
-Finished 100/100 episodes. Average episode reward: 320.606
+Finished 10/100 episodes. Average episode reward: 249.852
+Finished 20/100 episodes. Average episode reward: 292.047
+Finished 30/100 episodes. Average episode reward: 309.032
+Finished 40/100 episodes. Average episode reward: 300.048
+Finished 50/100 episodes. Average episode reward: 318.006
+Finished 60/100 episodes. Average episode reward: 319.442
+Finished 70/100 episodes. Average episode reward: 310.371
+Finished 80/100 episodes. Average episode reward: 316.297
+Finished 90/100 episodes. Average episode reward: 316.418
+Finished 100/100 episodes. Average episode reward: 314.503
 100
 100
-The average return after running TD3 agent for 100 episodes in MetaDrive-Tut-Test-v0 environment: 320.6056874552252.
+The average return after running TD3 agent for 100 episodes in MetaDrive-Tut-Test-v0 environment: 314.5034108718668.
 Result is saved at: MetaDrive-Tut-10Env-v0/td3/eval_results.csv
